@@ -9,7 +9,7 @@
         while the Tail point to the last node in linked list
 
         - the Big O Notation for the insertion is O(1) because i don't have any iteration, but for the print and the searching it is O(n) where n
-        referes to how many time the while will iterate through my list 
+        referes to how many time the while will iterate through my list and the space is O(1) for all things
 
 - ### Solution
 
@@ -19,6 +19,6 @@
     - ![code2](./Capture.PNG) 
     - ![Visual Output](./Code.PNG)
 
+    --- 
 
-
-        
+  # Strech Goal 
