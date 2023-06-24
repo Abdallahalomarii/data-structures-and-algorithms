@@ -15,9 +15,9 @@
 
     - here are some screen shots for my code :camera:
 
-    - ![Code1](./1.png)
-    - ![code2](./Capture.png) 
-    - ![Visual Output](./code.png)
+    - ![Code1](./1.PNG)
+    - ![code2](./Capture.PNG) 
+    - ![Visual Output](./Code.PNG)
 
 
 
