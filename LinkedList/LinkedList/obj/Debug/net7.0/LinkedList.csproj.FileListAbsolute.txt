@@ -1,0 +1,15 @@
+F:\.net\data-structures-and-algorithms\LinkedList\LinkedList\bin\Debug\net7.0\LinkedList.exe
+F:\.net\data-structures-and-algorithms\LinkedList\LinkedList\bin\Debug\net7.0\LinkedList.deps.json
+F:\.net\data-structures-and-algorithms\LinkedList\LinkedList\bin\Debug\net7.0\LinkedList.runtimeconfig.json
+F:\.net\data-structures-and-algorithms\LinkedList\LinkedList\bin\Debug\net7.0\LinkedList.dll
+F:\.net\data-structures-and-algorithms\LinkedList\LinkedList\bin\Debug\net7.0\LinkedList.pdb
+F:\.net\data-structures-and-algorithms\LinkedList\LinkedList\obj\Debug\net7.0\LinkedList.csproj.AssemblyReference.cache
+F:\.net\data-structures-and-algorithms\LinkedList\LinkedList\obj\Debug\net7.0\LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+F:\.net\data-structures-and-algorithms\LinkedList\LinkedList\obj\Debug\net7.0\LinkedList.AssemblyInfoInputs.cache
+F:\.net\data-structures-and-algorithms\LinkedList\LinkedList\obj\Debug\net7.0\LinkedList.AssemblyInfo.cs
+F:\.net\data-structures-and-algorithms\LinkedList\LinkedList\obj\Debug\net7.0\LinkedList.csproj.CoreCompileInputs.cache
+F:\.net\data-structures-and-algorithms\LinkedList\LinkedList\obj\Debug\net7.0\LinkedList.dll
+F:\.net\data-structures-and-algorithms\LinkedList\LinkedList\obj\Debug\net7.0\refint\LinkedList.dll
+F:\.net\data-structures-and-algorithms\LinkedList\LinkedList\obj\Debug\net7.0\LinkedList.pdb
+F:\.net\data-structures-and-algorithms\LinkedList\LinkedList\obj\Debug\net7.0\LinkedList.genruntimeconfig.cache
+F:\.net\data-structures-and-algorithms\LinkedList\LinkedList\obj\Debug\net7.0\ref\LinkedList.dll
