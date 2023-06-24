@@ -22,3 +22,20 @@
     --- 
 
   # Strech Goal 
+
+  - ### Approach & Efficiency
+
+
+      -  What approach did you take? Why? What is the Big O space/time for this approach
+          - I created a Double Linked List it looks like the single one but the different that the double linked list allow you to 
+          move forward and backward so you can move in 2 ways for each node and that make the movitaion faster than the single linked list.
+
+         - the Big O Notation the same of single linked list   for the insertions is O(1) because i don't have any iteration, but for the print and the searching it is O(n) where n
+        referes to how many time the while will iterate through my list and the space is O(1) for all things.
+       
+
+- ### Solution 
+- here are some screen shots for my code :camera:
+    - ![Code1](./dbcod1.PNG)
+    - ![code2](./dbcode2.PNG) 
+        - ![Visual Output](./output.PNG)
