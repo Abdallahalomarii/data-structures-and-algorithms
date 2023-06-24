@@ -13,10 +13,12 @@
 
 - ### Solution
 
-    - here are some screen shots for my code :
+    - here are some screen shots for my code :camera:
 
-    - ![Code]()
+    - ![Code1](./1.png)
+    - ![code2](./Capture.png) 
+    - ![Visual Output](./code.png)
 
-    - ![Visual Output]() 
 
 
+        
