@@ -32,8 +32,8 @@
 
                 DoubleLinkedList dbList = new DoubleLinkedList();
                 
-                dbList.InsertAtLast(50);
-                dbList.InsertAtLast(755);
+                dbList.InsertAtfirst(50);
+                dbList.InsertAtfirst(755);
                 dbList.InsertAtfirst(14);
                 dbList.InsertAtfirst(12);
 
@@ -154,21 +154,21 @@
             Head = null;
             Tail = null;
         }
-        public void InsertAtLast(int data)
-        {
-            Node node = new Node(data);
-            if (Head == null)
-            {
-                Head = node;
-                Tail = node;
-            }
-            else
-            {
-                Tail.Next = node;
-                node.Prev = Tail;
-                Tail = node;
-            }
-        }
+        //public void InsertAtLast(int data)
+        //{
+        //    Node node = new Node(data);
+        //    if (Head == null)
+        //    {
+        //        Head = node;
+        //        Tail = node;
+        //    }
+        //    else
+        //    {
+        //        Tail.Next = node;
+        //        node.Prev = Tail;
+        //        Tail = node;
+        //    }
+        //}
         public void InsertAtfirst(int data)
         {
             try

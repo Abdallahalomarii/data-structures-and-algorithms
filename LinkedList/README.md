@@ -38,4 +38,5 @@
 - here are some screen shots for my code :camera:
     - ![Code1](./Capture.PNG)
     - ![code2](./Capture1.PNG) 
-        - ![Visual Output](./Capture2.PNG)
+    - ![Visual Output](./Capture2.PNG)
+
