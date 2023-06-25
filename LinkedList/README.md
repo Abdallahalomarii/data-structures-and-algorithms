@@ -36,6 +36,6 @@
 
 - ### Solution 
 - here are some screen shots for my code :camera:
-    - ![Code1](./dbcod1.PNG)
-    - ![code2](./dbcode2.PNG) 
-        - ![Visual Output](./output.PNG)
+    - ![Code1](./Capture.PNG)
+    - ![code2](./Capture1.PNG) 
+        - ![Visual Output](./Capture2.PNG)
