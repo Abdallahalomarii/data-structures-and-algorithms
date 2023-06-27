@@ -1,0 +1,15 @@
+F:\.net\data-structures-and-algorithms\Challange06-insertion-linked-list\Challange06-insertion-linked-list\bin\Debug\net7.0\Challange06-insertion-linked-list.exe
+F:\.net\data-structures-and-algorithms\Challange06-insertion-linked-list\Challange06-insertion-linked-list\bin\Debug\net7.0\Challange06-insertion-linked-list.deps.json
+F:\.net\data-structures-and-algorithms\Challange06-insertion-linked-list\Challange06-insertion-linked-list\bin\Debug\net7.0\Challange06-insertion-linked-list.runtimeconfig.json
+F:\.net\data-structures-and-algorithms\Challange06-insertion-linked-list\Challange06-insertion-linked-list\bin\Debug\net7.0\Challange06-insertion-linked-list.dll
+F:\.net\data-structures-and-algorithms\Challange06-insertion-linked-list\Challange06-insertion-linked-list\bin\Debug\net7.0\Challange06-insertion-linked-list.pdb
+F:\.net\data-structures-and-algorithms\Challange06-insertion-linked-list\Challange06-insertion-linked-list\obj\Debug\net7.0\Challange06-insertion-linked-list.csproj.AssemblyReference.cache
+F:\.net\data-structures-and-algorithms\Challange06-insertion-linked-list\Challange06-insertion-linked-list\obj\Debug\net7.0\Challange06-insertion-linked-list.GeneratedMSBuildEditorConfig.editorconfig
+F:\.net\data-structures-and-algorithms\Challange06-insertion-linked-list\Challange06-insertion-linked-list\obj\Debug\net7.0\Challange06-insertion-linked-list.AssemblyInfoInputs.cache
+F:\.net\data-structures-and-algorithms\Challange06-insertion-linked-list\Challange06-insertion-linked-list\obj\Debug\net7.0\Challange06-insertion-linked-list.AssemblyInfo.cs
+F:\.net\data-structures-and-algorithms\Challange06-insertion-linked-list\Challange06-insertion-linked-list\obj\Debug\net7.0\Challange06-insertion-linked-list.csproj.CoreCompileInputs.cache
+F:\.net\data-structures-and-algorithms\Challange06-insertion-linked-list\Challange06-insertion-linked-list\obj\Debug\net7.0\Challange06-insertion-linked-list.dll
+F:\.net\data-structures-and-algorithms\Challange06-insertion-linked-list\Challange06-insertion-linked-list\obj\Debug\net7.0\refint\Challange06-insertion-linked-list.dll
+F:\.net\data-structures-and-algorithms\Challange06-insertion-linked-list\Challange06-insertion-linked-list\obj\Debug\net7.0\Challange06-insertion-linked-list.pdb
+F:\.net\data-structures-and-algorithms\Challange06-insertion-linked-list\Challange06-insertion-linked-list\obj\Debug\net7.0\Challange06-insertion-linked-list.genruntimeconfig.cache
+F:\.net\data-structures-and-algorithms\Challange06-insertion-linked-list\Challange06-insertion-linked-list\obj\Debug\net7.0\ref\Challange06-insertion-linked-list.dll

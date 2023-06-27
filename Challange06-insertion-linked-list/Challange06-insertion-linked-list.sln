@@ -5,6 +5,8 @@ VisualStudioVersion = 17.7.33808.371
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challange06-insertion-linked-list", "Challange06-insertion-linked-list\Challange06-insertion-linked-list.csproj", "{2888DE1A-9D14-48C2-8B29-2DB537CFEB2D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "insertionTest", "insertionTest\insertionTest.csproj", "{BE0E575C-E76B-4629-9122-453A97F6D52A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{2888DE1A-9D14-48C2-8B29-2DB537CFEB2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2888DE1A-9D14-48C2-8B29-2DB537CFEB2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2888DE1A-9D14-48C2-8B29-2DB537CFEB2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE0E575C-E76B-4629-9122-453A97F6D52A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE0E575C-E76B-4629-9122-453A97F6D52A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE0E575C-E76B-4629-9122-453A97F6D52A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE0E575C-E76B-4629-9122-453A97F6D52A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
