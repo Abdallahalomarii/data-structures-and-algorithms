@@ -9,3 +9,5 @@
 - [CodeChallange03-BinarySearch](./Challange03-BinarySearch/README.md)
 
 - [CodeChallange05-LinkedList](./LinkedList/README.md)
+
+- [CodeChallange06-Insertion-LinkedList](./Challange06-insertion-linked-list/README.md)
