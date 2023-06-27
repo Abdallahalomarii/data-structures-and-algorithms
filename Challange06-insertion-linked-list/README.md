@@ -38,6 +38,6 @@
     - here are some screen shots for my code :camera:
 
     - ![Code1](./codeDel.png)
-    - ![Visual Output](./output2.PNG)
+    - ![Visual Output](./output2.png)
 
     --- 
