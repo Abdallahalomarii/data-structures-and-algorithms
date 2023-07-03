@@ -22,4 +22,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\linked-list-kth\linked-list-kth.csproj" />
+  </ItemGroup>
+
 </Project>

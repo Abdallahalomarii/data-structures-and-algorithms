@@ -1,0 +1,15 @@
+F:\.net\data-structures-and-algorithms\Challange07-linked-list-kth\linked-list-kth\bin\Debug\net7.0\linked-list-kth.exe
+F:\.net\data-structures-and-algorithms\Challange07-linked-list-kth\linked-list-kth\bin\Debug\net7.0\linked-list-kth.deps.json
+F:\.net\data-structures-and-algorithms\Challange07-linked-list-kth\linked-list-kth\bin\Debug\net7.0\linked-list-kth.runtimeconfig.json
+F:\.net\data-structures-and-algorithms\Challange07-linked-list-kth\linked-list-kth\bin\Debug\net7.0\linked-list-kth.dll
+F:\.net\data-structures-and-algorithms\Challange07-linked-list-kth\linked-list-kth\bin\Debug\net7.0\linked-list-kth.pdb
+F:\.net\data-structures-and-algorithms\Challange07-linked-list-kth\linked-list-kth\obj\Debug\net7.0\linked-list-kth.csproj.AssemblyReference.cache
+F:\.net\data-structures-and-algorithms\Challange07-linked-list-kth\linked-list-kth\obj\Debug\net7.0\linked-list-kth.GeneratedMSBuildEditorConfig.editorconfig
+F:\.net\data-structures-and-algorithms\Challange07-linked-list-kth\linked-list-kth\obj\Debug\net7.0\linked-list-kth.AssemblyInfoInputs.cache
+F:\.net\data-structures-and-algorithms\Challange07-linked-list-kth\linked-list-kth\obj\Debug\net7.0\linked-list-kth.AssemblyInfo.cs
+F:\.net\data-structures-and-algorithms\Challange07-linked-list-kth\linked-list-kth\obj\Debug\net7.0\linked-list-kth.csproj.CoreCompileInputs.cache
+F:\.net\data-structures-and-algorithms\Challange07-linked-list-kth\linked-list-kth\obj\Debug\net7.0\linked-list-kth.dll
+F:\.net\data-structures-and-algorithms\Challange07-linked-list-kth\linked-list-kth\obj\Debug\net7.0\refint\linked-list-kth.dll
+F:\.net\data-structures-and-algorithms\Challange07-linked-list-kth\linked-list-kth\obj\Debug\net7.0\linked-list-kth.pdb
+F:\.net\data-structures-and-algorithms\Challange07-linked-list-kth\linked-list-kth\obj\Debug\net7.0\linked-list-kth.genruntimeconfig.cache
+F:\.net\data-structures-and-algorithms\Challange07-linked-list-kth\linked-list-kth\obj\Debug\net7.0\ref\linked-list-kth.dll

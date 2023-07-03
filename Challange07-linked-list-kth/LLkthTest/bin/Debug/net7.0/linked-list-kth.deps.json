@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "linked-list-kth/1.0.0": {
+        "runtime": {
+          "linked-list-kth.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "linked-list-kth/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
