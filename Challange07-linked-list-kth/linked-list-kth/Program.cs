@@ -17,7 +17,7 @@
 
                 linkedList.Print();
 
-                Console.WriteLine(linkedList.kthFromEnd(1));
+                Console.WriteLine(linkedList.kthFromEnd(20));
                 Console.WriteLine("The Middle linked list  Node Value is : "+linkedList.MiddleNumber());
             }
             catch (Exception ex)
@@ -80,7 +80,7 @@
             int i = 0;
             if (Head == null)
             {
-                return -1;
+                throw new Exception("Your List is empty");
             }
             else if (Head.Next == null)
             {
@@ -90,7 +90,7 @@
                 }
                 else
                 {
-                    result = -1;
+                    throw new Exception("Index out of range");
                 }
                 return result;
             }
@@ -107,7 +107,7 @@
                 {
                     if (count - i < k || k < 0)
                     {
-                        return -1;
+                        throw new IndexOutOfRangeException("Index out of range");
                     }
                     else if (count - i == k)
                     {

@@ -15,12 +15,9 @@ namespace LLkthTest
             listTest.Append(3);
             listTest.Append(8);
             listTest.Append(2);
-
-            // Act
-            int result = listTest.kthFromEnd(4);
-
+            
             // Assert
-            Assert.Equal(-1, result);
+            Assert.Throws<IndexOutOfRangeException>(() => listTest.kthFromEnd(5));
         }
         [Fact]
         public void TheKthSameAsLengthOfLinkedList()
@@ -49,11 +46,9 @@ namespace LLkthTest
             listTest.Append(8);
             listTest.Append(2);
 
-            // Act
-            int result = listTest.kthFromEnd(-4);
 
             // Assert
-            Assert.Equal(-1, result);
+            Assert.Throws<IndexOutOfRangeException>(() => listTest.kthFromEnd(-4));
         }
         [Fact]
         public void TheSizeOfLinkedListIsOne1()
