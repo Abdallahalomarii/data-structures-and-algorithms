@@ -32,7 +32,8 @@
 
         - i make the same approach looping through the linked list and to get the length of this linked list and another loop to 
         get the node value and the condition here if the length / 2 == i and the i here is the new counter start from the head 
-        and increased every time i move in the linked list when the condition is true return this node value
+        and increased every time i move in the linked list when the condition is true return this node value else increase the i and move the node to the next
+
 
         - the Big O notaion is O(n) and the space is O(1)
 
