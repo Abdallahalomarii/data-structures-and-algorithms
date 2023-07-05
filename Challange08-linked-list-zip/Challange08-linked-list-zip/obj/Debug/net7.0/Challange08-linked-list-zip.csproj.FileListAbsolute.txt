@@ -1,0 +1,15 @@
+F:\.net\data-structures-and-algorithms\Challange08-linked-list-zip\Challange08-linked-list-zip\obj\Debug\net7.0\Challange08-linked-list-zip.csproj.AssemblyReference.cache
+F:\.net\data-structures-and-algorithms\Challange08-linked-list-zip\Challange08-linked-list-zip\obj\Debug\net7.0\Challange08-linked-list-zip.GeneratedMSBuildEditorConfig.editorconfig
+F:\.net\data-structures-and-algorithms\Challange08-linked-list-zip\Challange08-linked-list-zip\obj\Debug\net7.0\Challange08-linked-list-zip.AssemblyInfoInputs.cache
+F:\.net\data-structures-and-algorithms\Challange08-linked-list-zip\Challange08-linked-list-zip\obj\Debug\net7.0\Challange08-linked-list-zip.AssemblyInfo.cs
+F:\.net\data-structures-and-algorithms\Challange08-linked-list-zip\Challange08-linked-list-zip\obj\Debug\net7.0\Challange08-linked-list-zip.csproj.CoreCompileInputs.cache
+F:\.net\data-structures-and-algorithms\Challange08-linked-list-zip\Challange08-linked-list-zip\bin\Debug\net7.0\Challange08-linked-list-zip.exe
+F:\.net\data-structures-and-algorithms\Challange08-linked-list-zip\Challange08-linked-list-zip\bin\Debug\net7.0\Challange08-linked-list-zip.deps.json
+F:\.net\data-structures-and-algorithms\Challange08-linked-list-zip\Challange08-linked-list-zip\bin\Debug\net7.0\Challange08-linked-list-zip.runtimeconfig.json
+F:\.net\data-structures-and-algorithms\Challange08-linked-list-zip\Challange08-linked-list-zip\bin\Debug\net7.0\Challange08-linked-list-zip.dll
+F:\.net\data-structures-and-algorithms\Challange08-linked-list-zip\Challange08-linked-list-zip\bin\Debug\net7.0\Challange08-linked-list-zip.pdb
+F:\.net\data-structures-and-algorithms\Challange08-linked-list-zip\Challange08-linked-list-zip\obj\Debug\net7.0\Challange08-linked-list-zip.dll
+F:\.net\data-structures-and-algorithms\Challange08-linked-list-zip\Challange08-linked-list-zip\obj\Debug\net7.0\refint\Challange08-linked-list-zip.dll
+F:\.net\data-structures-and-algorithms\Challange08-linked-list-zip\Challange08-linked-list-zip\obj\Debug\net7.0\Challange08-linked-list-zip.pdb
+F:\.net\data-structures-and-algorithms\Challange08-linked-list-zip\Challange08-linked-list-zip\obj\Debug\net7.0\Challange08-linked-list-zip.genruntimeconfig.cache
+F:\.net\data-structures-and-algorithms\Challange08-linked-list-zip\Challange08-linked-list-zip\obj\Debug\net7.0\ref\Challange08-linked-list-zip.dll
