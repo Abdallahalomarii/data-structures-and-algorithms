@@ -13,3 +13,5 @@
 - [CodeChallange06-Insertion-LinkedList](./Challange06-insertion-linked-list/README.md)
 
 - [CodeChallange07-LinkedList-kth](./Challange07-linked-list-kth/README.md)
+
+- [CodeChallange08-ZipLinkedList](./Challange08-linked-list-zip/README.md)
