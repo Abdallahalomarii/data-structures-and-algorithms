@@ -15,3 +15,5 @@
 - [CodeChallange07-LinkedList-kth](./Challange07-linked-list-kth/README.md)
 
 - [CodeChallange08-ZipLinkedList](./Challange08-linked-list-zip/README.md)
+
+- [CodeChallange10-stack-and-queue](./Challenge10-stack-and-queue/README.md)

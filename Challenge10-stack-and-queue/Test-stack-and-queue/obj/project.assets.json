@@ -5539,9 +5539,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\.net\\data-structures-and-algorithms\\Challenge10-stack-and-queue\\Test-stack-and-queue\\Test-stack-and-queue.csproj",
-      "projectName": "Test-stack-and-queue",
-      "projectPath": "F:\\.net\\data-structures-and-algorithms\\Challenge10-stack-and-queue\\Test-stack-and-queue\\Test-stack-and-queue.csproj",
+      "projectUniqueName": "F:\\.net\\data-structures-and-algorithms\\Challenge10-stack-and-queue\\Test-stack-and-queue\\Test-stack.csproj",
+      "projectName": "Test-stack",
+      "projectPath": "F:\\.net\\data-structures-and-algorithms\\Challenge10-stack-and-queue\\Test-stack-and-queue\\Test-stack.csproj",
       "packagesPath": "C:\\Users\\abboo\\.nuget\\packages\\",
       "outputPath": "F:\\.net\\data-structures-and-algorithms\\Challenge10-stack-and-queue\\Test-stack-and-queue\\obj\\",
       "projectStyle": "PackageReference",

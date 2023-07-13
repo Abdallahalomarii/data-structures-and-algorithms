@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yXM+gFZeQNqvDrb88IhLWWjFI24fjiqJjK7zSrdp4yp8sMJVztQn+mhT5WGkPIRfOa8fbivOms7ow/3fIVls0g==",
+  "dgSpecHash": "LEevLMEReyq6RsJVy05i+DRq0wEY4ns50hnQMsCCBFgq9JXE4PnhEriWq3+tJH6+M0gH8Z3VDQKitxdbzsE6MQ==",
   "success": true,
-  "projectFilePath": "F:\\.net\\data-structures-and-algorithms\\Challenge10-stack-and-queue\\Test-stack-and-queue\\Test-stack-and-queue.csproj",
+  "projectFilePath": "F:\\.net\\data-structures-and-algorithms\\Challenge10-stack-and-queue\\Test-stack-and-queue\\Test-stack.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\abboo\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\abboo\\.nuget\\packages\\microsoft.codecoverage\\17.6.0\\microsoft.codecoverage.17.6.0.nupkg.sha512",
