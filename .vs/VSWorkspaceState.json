@@ -2,8 +2,17 @@
   "ExpandedNodes": [
     "",
     "\\Challenge10-stack-and-queue",
+<<<<<<< HEAD
     "\\Challenge10-stack-and-queue\\Challenge10-stack-and-queue"
   ],
   "SelectedNode": "\\Challenge10-stack-and-queue\\Challenge10-stack-and-queue\\Program.cs",
+=======
+    "\\Challenge10-stack-and-queue\\Challenge10-stack-and-queue",
+    "\\Challenge10-stack-and-queue\\Challenge10-stack-and-queue\\Stack&Queue",
+    "\\Challenge10-stack-and-queue\\Test-Queue",
+    "\\Challenge10-stack-and-queue\\Test-stack-and-queue"
+  ],
+  "SelectedNode": "\\Challenge10-stack-and-queue\\Test-stack-and-queue",
+>>>>>>> main
   "PreviewInSolutionExplorer": false
 }
