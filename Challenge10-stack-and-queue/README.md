@@ -18,4 +18,25 @@
     - here are some screen shots for my code :camera:
 
     - ![Code1](./Code1.png)
-    - ![Visual Output](./code2.png)
+    - ![cod2](./code.png)
+    - ![Visual Output](./output.png)
+
+
+- # psudo queue code challenge 11 
+    ### Approach & Efficiency
+
+    - What approach did you take? Why? What is the Big O space/time for this approach
+
+        - The Enqueue method simply pushes the new element onto stack1, as it represents the rear end of the queue.
+        - The Dequeue method moves all elements from stack1 to stack2 recursively until the last element is reached. This effectively reverses the order of the elements, allowing the front element to be popped from stack2.
+        - After popping the front element, the remaining elements are moved back from stack2 to stack1 in their original order.
+
+
+        - so the summary of the big O notation is O(n) for the this methods and the space is seems to be O(n)
+
+- ### Solution
+
+    - here are some screen shots for my code :camera:
+
+    - ![Code1](./psudoqueue.png)
+    - ![Visual Output](./output2.png)

@@ -1,4 +1,5 @@
-﻿using Challenge10_stack_and_queue.Stack;
+﻿using Challenge10_stack_and_queue.pseudo_queue;
+using Challenge10_stack_and_queue.Stack;
 using Challenge10_stack_and_queue.Stack_Queue;
 using System.Collections;
 
@@ -8,28 +9,40 @@ namespace Challenge10_stack_and_queue
     {
         static void Main(string[] args)
         {
-            Stacks? stack1 = new();
+            //Stacks? stack1 = new();
 
-            stack1.Push(1);
-            stack1.Push(2);
-            stack1.Push(3);
-            stack1.Push(4);
+            //stack1.Push(1);
+            //stack1.Push(2);
+            //stack1.Push(3);
+            //stack1.Push(4);
 
-            stack1.PrintStack();
-            Console.WriteLine();
-            Console.WriteLine();
+            //stack1.PrintStack();
+            //Console.WriteLine();
+            //Console.WriteLine();
 
 
-            Queues? queue = new();
+            //Queues? queue = new();
 
-            queue.Enqueue(1);
-            queue.Enqueue(2);
-            queue.Enqueue(3);
-            queue.Enqueue(8);
-            queue.Enqueue(10);
-            queue.Dequeue();
+            //queue.Enqueue(1);
+            //queue.Enqueue(2);
+            //queue.Enqueue(3);
+            //queue.Enqueue(8);
+            //queue.Enqueue(10);
+            //queue.Dequeue();
 
-            queue.PrintQueue();
+            //queue.PrintQueue();
+
+            PseudoQueue sud = new PseudoQueue();
+            sud.Enqueue(20);
+            sud.Enqueue(15);
+            sud.Dequeue();
+            sud.Enqueue(10);
+            sud.Enqueue(10);
+            sud.Enqueue(5);
+            sud.Dequeue();
+            sud.Print();
+
+
         }
     }
 }

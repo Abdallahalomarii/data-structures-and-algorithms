@@ -52,7 +52,7 @@ namespace Challenge10_stack_and_queue.Stack_Queue
         }
 
         public int Peek()
-        {
+        {   
             if (Front == null)
             {
                 throw new NullReferenceException("The stack is Empty");
