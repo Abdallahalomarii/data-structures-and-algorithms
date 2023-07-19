@@ -40,3 +40,27 @@
 
     - ![Code1](./psudoqueue.png)
     - ![Visual Output](./output2.png)
+
+- # stack-queue-shelter CC 12 
+    ### Approach & Efficiency 
+
+     - What approach did you take? Why? What is the Big O space/time for this approach
+
+          - For Enqueue: The Enqueue method adds an animal to the shelter. It creates a new node with the animal's data and adds it to the back of the queue.
+         The time complexity of this operation is O(1) since it involves basic pointer manipulation.
+
+        - For Dequeue: The Dequeue method removes and returns an animal from the shelter based on a preference (either "cat" or "dog").
+        If the preference matches the species of the animal at the front of the queue, it is dequeued and returned.
+        Otherwise, it searches for the next matching animal by traversing the queue.
+        The worst-case time complexity for dequeueing is O(n).
+        since it may need to traverse the entire queue to find a matching animal.
+
+- ### Solution
+
+    - here are some screen shots for my code :camera:
+
+        - ![Code](./shelter1.PNG)
+        - ![Code](./shelter2.PNG)
+        - ![Code](./shelter3.PNG)
+        - ![Visual](./shelter4.PNG)
+

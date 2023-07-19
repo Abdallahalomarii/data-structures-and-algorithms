@@ -54,8 +54,8 @@ namespace Challenge10_stack_and_queue
             animal.Enqueue(new { name = "Messi", species = "Dog" });
             animal.Enqueue(new { name = "Simba", species = "Lion" });
 
-            Console.WriteLine(animal.Dequeue("CAT"));
-            var nullobject = animal.Dequeue("lion");
+            Console.WriteLine(animal.Dequeue("Dog"));
+            Console.WriteLine(animal.Dequeue("lion"));
 
             animal.Print();
 
