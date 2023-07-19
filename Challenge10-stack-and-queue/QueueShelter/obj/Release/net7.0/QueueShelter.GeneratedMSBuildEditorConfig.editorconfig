@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = QueueShelter
-build_property.ProjectDir = F:\.net\data-structures-and-algorithms\Challenge10-stack-and-queue\QueueShelter\
+build_property.ProjectDir = F:\data-structures-and-algorithms\Challenge10-stack-and-queue\QueueShelter\
