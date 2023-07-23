@@ -17,3 +17,5 @@
 - [CodeChallange08-ZipLinkedList](./Challange08-linked-list-zip/README.md)
 
 - [CodeChallange10-stack-and-queue](./Challenge10-stack-and-queue/README.md)
+
+- [CodeChallenge13-stack-and-queue-brackets](./Challenge13-stack-queue-brackets/README.md)
