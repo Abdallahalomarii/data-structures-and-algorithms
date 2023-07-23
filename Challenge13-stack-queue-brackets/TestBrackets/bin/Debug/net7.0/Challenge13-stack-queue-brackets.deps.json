@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Challenge13-stack-queue-brackets/1.0.0": {
+        "runtime": {
+          "Challenge13-stack-queue-brackets.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Challenge13-stack-queue-brackets/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
