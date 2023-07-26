@@ -1,8 +1,14 @@
 {
   "ExpandedNodes": [
+<<<<<<< HEAD
     "",
     "\\DuckDuckGoose"
   ],
   "SelectedNode": "\\DuckDuckGoose\\DuckDuckGoose.sln",
+=======
+    ""
+  ],
+  "SelectedNode": "\\DuckDuckGoose.sln",
+>>>>>>> Main
   "PreviewInSolutionExplorer": false
 }
