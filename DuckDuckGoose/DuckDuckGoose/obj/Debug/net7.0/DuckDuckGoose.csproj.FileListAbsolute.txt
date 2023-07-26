@@ -1,0 +1,15 @@
+F:\.net\data-structures-and-algorithms\DuckDuckGoose\DuckDuckGoose\bin\Debug\net7.0\DuckDuckGoose.exe
+F:\.net\data-structures-and-algorithms\DuckDuckGoose\DuckDuckGoose\bin\Debug\net7.0\DuckDuckGoose.deps.json
+F:\.net\data-structures-and-algorithms\DuckDuckGoose\DuckDuckGoose\bin\Debug\net7.0\DuckDuckGoose.runtimeconfig.json
+F:\.net\data-structures-and-algorithms\DuckDuckGoose\DuckDuckGoose\bin\Debug\net7.0\DuckDuckGoose.dll
+F:\.net\data-structures-and-algorithms\DuckDuckGoose\DuckDuckGoose\bin\Debug\net7.0\DuckDuckGoose.pdb
+F:\.net\data-structures-and-algorithms\DuckDuckGoose\DuckDuckGoose\obj\Debug\net7.0\DuckDuckGoose.csproj.AssemblyReference.cache
+F:\.net\data-structures-and-algorithms\DuckDuckGoose\DuckDuckGoose\obj\Debug\net7.0\DuckDuckGoose.GeneratedMSBuildEditorConfig.editorconfig
+F:\.net\data-structures-and-algorithms\DuckDuckGoose\DuckDuckGoose\obj\Debug\net7.0\DuckDuckGoose.AssemblyInfoInputs.cache
+F:\.net\data-structures-and-algorithms\DuckDuckGoose\DuckDuckGoose\obj\Debug\net7.0\DuckDuckGoose.AssemblyInfo.cs
+F:\.net\data-structures-and-algorithms\DuckDuckGoose\DuckDuckGoose\obj\Debug\net7.0\DuckDuckGoose.csproj.CoreCompileInputs.cache
+F:\.net\data-structures-and-algorithms\DuckDuckGoose\DuckDuckGoose\obj\Debug\net7.0\DuckDuckGoose.dll
+F:\.net\data-structures-and-algorithms\DuckDuckGoose\DuckDuckGoose\obj\Debug\net7.0\refint\DuckDuckGoose.dll
+F:\.net\data-structures-and-algorithms\DuckDuckGoose\DuckDuckGoose\obj\Debug\net7.0\DuckDuckGoose.pdb
+F:\.net\data-structures-and-algorithms\DuckDuckGoose\DuckDuckGoose\obj\Debug\net7.0\DuckDuckGoose.genruntimeconfig.cache
+F:\.net\data-structures-and-algorithms\DuckDuckGoose\DuckDuckGoose\obj\Debug\net7.0\ref\DuckDuckGoose.dll
