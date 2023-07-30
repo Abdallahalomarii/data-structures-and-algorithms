@@ -1,0 +1,15 @@
+F:\.net\data-structures-and-algorithms\Challenge15-BinaryTree\Challenge15-BinaryTree\bin\Debug\net7.0\Challenge15-BinaryTree.exe
+F:\.net\data-structures-and-algorithms\Challenge15-BinaryTree\Challenge15-BinaryTree\bin\Debug\net7.0\Challenge15-BinaryTree.deps.json
+F:\.net\data-structures-and-algorithms\Challenge15-BinaryTree\Challenge15-BinaryTree\bin\Debug\net7.0\Challenge15-BinaryTree.runtimeconfig.json
+F:\.net\data-structures-and-algorithms\Challenge15-BinaryTree\Challenge15-BinaryTree\bin\Debug\net7.0\Challenge15-BinaryTree.dll
+F:\.net\data-structures-and-algorithms\Challenge15-BinaryTree\Challenge15-BinaryTree\bin\Debug\net7.0\Challenge15-BinaryTree.pdb
+F:\.net\data-structures-and-algorithms\Challenge15-BinaryTree\Challenge15-BinaryTree\obj\Debug\net7.0\Challenge15-BinaryTree.csproj.AssemblyReference.cache
+F:\.net\data-structures-and-algorithms\Challenge15-BinaryTree\Challenge15-BinaryTree\obj\Debug\net7.0\Challenge15-BinaryTree.GeneratedMSBuildEditorConfig.editorconfig
+F:\.net\data-structures-and-algorithms\Challenge15-BinaryTree\Challenge15-BinaryTree\obj\Debug\net7.0\Challenge15-BinaryTree.AssemblyInfoInputs.cache
+F:\.net\data-structures-and-algorithms\Challenge15-BinaryTree\Challenge15-BinaryTree\obj\Debug\net7.0\Challenge15-BinaryTree.AssemblyInfo.cs
+F:\.net\data-structures-and-algorithms\Challenge15-BinaryTree\Challenge15-BinaryTree\obj\Debug\net7.0\Challenge15-BinaryTree.csproj.CoreCompileInputs.cache
+F:\.net\data-structures-and-algorithms\Challenge15-BinaryTree\Challenge15-BinaryTree\obj\Debug\net7.0\Challenge15-BinaryTree.dll
+F:\.net\data-structures-and-algorithms\Challenge15-BinaryTree\Challenge15-BinaryTree\obj\Debug\net7.0\refint\Challenge15-BinaryTree.dll
+F:\.net\data-structures-and-algorithms\Challenge15-BinaryTree\Challenge15-BinaryTree\obj\Debug\net7.0\Challenge15-BinaryTree.pdb
+F:\.net\data-structures-and-algorithms\Challenge15-BinaryTree\Challenge15-BinaryTree\obj\Debug\net7.0\Challenge15-BinaryTree.genruntimeconfig.cache
+F:\.net\data-structures-and-algorithms\Challenge15-BinaryTree\Challenge15-BinaryTree\obj\Debug\net7.0\ref\Challenge15-BinaryTree.dll
