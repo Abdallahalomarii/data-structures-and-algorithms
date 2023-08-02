@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Challenge15-BinaryTree",
+    "\\Challenge15-BinaryTree\\Challenge15-BinaryTree"
   ],
-  "SelectedNode": "\\Challange01-ReversArray",
+  "SelectedNode": "\\Challenge15-BinaryTree\\Challenge15-BinaryTree\\BinaryTree.cs",
   "PreviewInSolutionExplorer": false
 }
