@@ -33,7 +33,7 @@
 		- ![BinarySearch](./binarysearch.png)
 
 
-- # Find max value in the Binary Tree
+# Find max value in the Binary Tree
 
 - ## WhiteBoard
     - ![WB](wb.jpg)

@@ -4,26 +4,19 @@
     {
         static void Main(string[] args)
         {
-            BinarySearchTree newTree = new BinarySearchTree();
+            try
+            {
+                BinarySearchTree newTree = new BinarySearchTree();
 
-            newTree.Add(20);
-            newTree.Add(30);
-            newTree.Add(25);
-            newTree.Add(15);
-
-            newTree.Add(10);
-
-            newTree.Add(5);
-            newTree.Add(35);
-            newTree.Add(40);
-            newTree.Add(21);
+                newTree.Add(20);
 
 
-            Console.WriteLine("InOrder Traversal here -----");
-            string result2 = String.Join(",", newTree.InOrder(newTree.Root, new List<int>()));
+                newTree.Add(30);
+                newTree.Add(25);
+                newTree.Add(40);
+                newTree.Add(15);
 
-            Console.WriteLine(result2);
-            Console.WriteLine();
+                newTree.Add(10);
 
             Console.WriteLine("PreOder Traversal here -----");
             string result1 = String.Join(",", newTree.PreOder(newTree.Root, new List<int>()));
