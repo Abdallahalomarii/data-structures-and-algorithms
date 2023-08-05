@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Challenge15-BinaryTree", "C
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TreeTest", "TreeTest\TreeTest.csproj", "{726E7C9D-1ED2-4399-A2E7-4A69717426EC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestMax", "TestMax\TestMax.csproj", "{09786239-7CCF-4EB7-9D61-48B85B99AB26}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreadthFirstTest", "BreadthFirstTest\BreadthFirstTest.csproj", "{C9B3DB22-4731-4DE6-8401-2BA5DF06064C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{726E7C9D-1ED2-4399-A2E7-4A69717426EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{726E7C9D-1ED2-4399-A2E7-4A69717426EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{726E7C9D-1ED2-4399-A2E7-4A69717426EC}.Release|Any CPU.Build.0 = Release|Any CPU
-		{09786239-7CCF-4EB7-9D61-48B85B99AB26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{09786239-7CCF-4EB7-9D61-48B85B99AB26}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{09786239-7CCF-4EB7-9D61-48B85B99AB26}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{09786239-7CCF-4EB7-9D61-48B85B99AB26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9B3DB22-4731-4DE6-8401-2BA5DF06064C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9B3DB22-4731-4DE6-8401-2BA5DF06064C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9B3DB22-4731-4DE6-8401-2BA5DF06064C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9B3DB22-4731-4DE6-8401-2BA5DF06064C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

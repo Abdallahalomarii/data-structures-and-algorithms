@@ -58,3 +58,32 @@
 
 		- ![node](./node.png)
 		- ![BinaryTree](./output.png)
+
+
+- # Breadth first in Tree
+
+	- ## WhiteBoard
+        - ![WB](./wb2.jpg)
+
+
+
+- ## Approach & Efficiency
+
+	- Create a method that accept an tree arguments and return n array of integer 
+	i make a list of integer and queue to acpet nodes and then adding the root to the 
+	queue and makeing a loop iterate till the queue being empty 
+	and each time on the loop it will add the left and the right layer of the current
+	child to the queue and for each run it will add the first element we added to the 
+	queue to the list we have
+	and finally when the queue fished the removing the data 
+	the new list will have the all data level by level 
+
+	- and it takes an O(n) where n is the number of childs in that will has a data bigger than the max 
+	value
+	sapce Compleixity will be O(w) where w is the width of the tree 
+
+	- ## Solutions 
+
+	- here are some screen shots for my code :camera:
+
+		- ![BTF](./BFcode.png)
