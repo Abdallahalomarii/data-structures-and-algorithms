@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\.net\\data-structures-and-algorithms\\Challenge15-BinaryTree\\BreadthFirstTest\\BreadthFirstTest.csproj": {}
+    "C:\\Users\\abboo\\Source\\Repos\\Abdallahalomarii\\data-structures-and-algorithms\\Challenge15-BinaryTree\\BreadthFirstTest\\BreadthFirstTest.csproj": {}
   },
   "projects": {
-    "F:\\.net\\data-structures-and-algorithms\\Challenge15-BinaryTree\\BreadthFirstTest\\BreadthFirstTest.csproj": {
+    "C:\\Users\\abboo\\Source\\Repos\\Abdallahalomarii\\data-structures-and-algorithms\\Challenge15-BinaryTree\\BreadthFirstTest\\BreadthFirstTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\.net\\data-structures-and-algorithms\\Challenge15-BinaryTree\\BreadthFirstTest\\BreadthFirstTest.csproj",
+        "projectUniqueName": "C:\\Users\\abboo\\Source\\Repos\\Abdallahalomarii\\data-structures-and-algorithms\\Challenge15-BinaryTree\\BreadthFirstTest\\BreadthFirstTest.csproj",
         "projectName": "BreadthFirstTest",
-        "projectPath": "F:\\.net\\data-structures-and-algorithms\\Challenge15-BinaryTree\\BreadthFirstTest\\BreadthFirstTest.csproj",
+        "projectPath": "C:\\Users\\abboo\\Source\\Repos\\Abdallahalomarii\\data-structures-and-algorithms\\Challenge15-BinaryTree\\BreadthFirstTest\\BreadthFirstTest.csproj",
         "packagesPath": "C:\\Users\\abboo\\.nuget\\packages\\",
-        "outputPath": "F:\\.net\\data-structures-and-algorithms\\Challenge15-BinaryTree\\BreadthFirstTest\\obj\\",
+        "outputPath": "C:\\Users\\abboo\\Source\\Repos\\Abdallahalomarii\\data-structures-and-algorithms\\Challenge15-BinaryTree\\BreadthFirstTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abboo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "F:\\.net\\data-structures-and-algorithms\\Challenge15-BinaryTree\\Challenge15-BinaryTree\\Challenge15-BinaryTree.csproj": {
-                "projectPath": "F:\\.net\\data-structures-and-algorithms\\Challenge15-BinaryTree\\Challenge15-BinaryTree\\Challenge15-BinaryTree.csproj"
+              "C:\\Users\\abboo\\Source\\Repos\\Abdallahalomarii\\data-structures-and-algorithms\\Challenge15-BinaryTree\\Challenge15-BinaryTree\\Challenge15-BinaryTree.csproj": {
+                "projectPath": "C:\\Users\\abboo\\Source\\Repos\\Abdallahalomarii\\data-structures-and-algorithms\\Challenge15-BinaryTree\\Challenge15-BinaryTree\\Challenge15-BinaryTree.csproj"
               }
             }
           }
@@ -89,14 +89,14 @@
         }
       }
     },
-    "F:\\.net\\data-structures-and-algorithms\\Challenge15-BinaryTree\\Challenge15-BinaryTree\\Challenge15-BinaryTree.csproj": {
+    "C:\\Users\\abboo\\Source\\Repos\\Abdallahalomarii\\data-structures-and-algorithms\\Challenge15-BinaryTree\\Challenge15-BinaryTree\\Challenge15-BinaryTree.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\.net\\data-structures-and-algorithms\\Challenge15-BinaryTree\\Challenge15-BinaryTree\\Challenge15-BinaryTree.csproj",
+        "projectUniqueName": "C:\\Users\\abboo\\Source\\Repos\\Abdallahalomarii\\data-structures-and-algorithms\\Challenge15-BinaryTree\\Challenge15-BinaryTree\\Challenge15-BinaryTree.csproj",
         "projectName": "Challenge15-BinaryTree",
-        "projectPath": "F:\\.net\\data-structures-and-algorithms\\Challenge15-BinaryTree\\Challenge15-BinaryTree\\Challenge15-BinaryTree.csproj",
+        "projectPath": "C:\\Users\\abboo\\Source\\Repos\\Abdallahalomarii\\data-structures-and-algorithms\\Challenge15-BinaryTree\\Challenge15-BinaryTree\\Challenge15-BinaryTree.csproj",
         "packagesPath": "C:\\Users\\abboo\\.nuget\\packages\\",
-        "outputPath": "F:\\.net\\data-structures-and-algorithms\\Challenge15-BinaryTree\\Challenge15-BinaryTree\\obj\\",
+        "outputPath": "C:\\Users\\abboo\\Source\\Repos\\Abdallahalomarii\\data-structures-and-algorithms\\Challenge15-BinaryTree\\Challenge15-BinaryTree\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abboo\\AppData\\Roaming\\NuGet\\NuGet.Config",
