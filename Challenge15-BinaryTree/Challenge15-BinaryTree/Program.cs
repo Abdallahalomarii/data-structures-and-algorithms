@@ -4,8 +4,7 @@
     {
         static void Main(string[] args)
         {
-            try
-            {
+            
                 BinarySearchTree newTree = new BinarySearchTree();
 
                 newTree.Add(20);
