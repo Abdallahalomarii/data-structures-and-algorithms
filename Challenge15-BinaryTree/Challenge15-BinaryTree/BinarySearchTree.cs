@@ -6,34 +6,34 @@ using System.Threading.Tasks;
 
 namespace Challenge15_BinaryTree
 {
-    public class BinarySearchTree : BinaryTree
+    public class BinarySearchTree<T> : BinaryTree<T> where T : IComparable<T>
     {
-        public Node? Root { get; set; }
+        public Node<T> Root { get; set; }
         public BinarySearchTree()
         {
             Root = null;
         }
-        public BinarySearchTree(int data)
+        public BinarySearchTree(T data)
         {
-            Root = new Node(data);
+            Root = new Node<T>(data);
         }
 
-        public void Add(int data)
+        public void Add(T data)
         {
             if (Root == null)
             {
-                Root = new Node(data);
+                Root = new Node<T>(data);
                 return;
             }
 
-            Node node = Root;
+            Node<T> node = Root;
             while (true)
             {
-                if (data < node.Data)
+                if (data.CompareTo(node.Data) < 0)
                 {
                     if (node.Left == null)
                     {
-                        node.Left = new Node(data);
+                        node.Left = new Node<T>(data);
                         break;
                     }
                     else
@@ -45,7 +45,7 @@ namespace Challenge15_BinaryTree
                 {
                     if (node.Right == null)
                     {
-                        node.Right = new Node(data);
+                        node.Right = new Node<T>(data);
                         break;
                     }
                     else
@@ -57,7 +57,7 @@ namespace Challenge15_BinaryTree
         }
 
 
-        public bool Contains(int data)
+        public bool Contains(T data)
         {
             if (Root == null)
             {
@@ -65,14 +65,14 @@ namespace Challenge15_BinaryTree
             }
             else
             {
-                Node containNode = Root;
+                Node<T> containNode = Root;
                 while (containNode != null)
                 {
-                    if (containNode.Data == data)
+                    if (containNode.Data.Equals(data))
                     {
                         return true;
                     }
-                    else if (containNode.Data > data)
+                    else if (containNode.Data.CompareTo(data) > 0)
                     {
                         containNode = containNode.Left;
                     }
@@ -85,7 +85,7 @@ namespace Challenge15_BinaryTree
             }
         }
 
-        public int FindMax()
+        public T FindMax()
         {
             if (Root == null)
             {
@@ -97,16 +97,15 @@ namespace Challenge15_BinaryTree
             }
             else
             {
-                Node currentChild = Root;
-                int maxValue = int.MinValue;
+                Node<T> currentChild = Root;
+                T maxValue = default(T);
                 while (currentChild != null)
                 {
-                    if (currentChild.Data > maxValue)
+                    if (currentChild.Data.CompareTo(maxValue) >0)
                     {
                         maxValue = currentChild.Data;
-                       
                     }
-                    else if (currentChild.Data < maxValue)
+                    else if (currentChild.Data.CompareTo(maxValue) < 0)
                     {
                         currentChild = currentChild.Left;
                     }

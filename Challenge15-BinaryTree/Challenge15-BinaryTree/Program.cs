@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
 
-            BinarySearchTree newTree = new BinarySearchTree();
+            BinarySearchTree<int> newTree = new BinarySearchTree<int>();
 
             newTree.Add(20);
             newTree.Add(30);
@@ -37,16 +37,25 @@
             Console.WriteLine(newTree.Contains(34));
             Console.WriteLine();
 
-            Console.WriteLine($" The Max Value in The Tree is : {newTree.FindMax()}");
+            Console.WriteLine($"The Max Value in The Tree is : {newTree.FindMax()}");
 
             Console.WriteLine("\nBreadth First here -----");
             var breadthFirst = String.Join(",",new Program().BreadthFirst(newTree));
 
             Console.WriteLine(breadthFirst);
 
+            
+            Console.WriteLine();
+
+            var x = new Program().FizzBuzz(newTree);
+
+            string karyPost = string.Join(", ", x.PostOrder(x.Root, new List<string>()));
+
+            Console.WriteLine(karyPost);
+
         }
         // 20 15 30 10 25 35 5 21 40
-        public int[] BreadthFirst(BinarySearchTree tree)
+        public int[] BreadthFirst(BinarySearchTree<int> tree)
         {
             var root = tree.Root;
 
@@ -57,14 +66,14 @@
 
             List<int> list = new List<int>();
 
-            Queue<Node> queue = new Queue<Node>();
+            Queue<Node<int>> queue = new Queue<Node<int>>();
 
             queue.Enqueue(root);
 
 
             while (queue.Count > 0)
             {
-                Node currentChild = queue.Dequeue();
+                Node<int> currentChild = queue.Dequeue();
 
                 list.Add(currentChild.Data);
 
@@ -80,6 +89,65 @@
             return list.ToArray();
 
 
+        }
+
+        public BinarySearchTree<string> FizzBuzz(BinarySearchTree<int> tree)
+        {
+            var root = tree.Root;
+
+
+            if (root == null)
+            {
+                return null;
+            }
+
+            BinarySearchTree<string> fizzBuzz = new BinarySearchTree<string>(FizzBuzzValue(root.Data));
+
+            Queue<Node<int>> inputQueue = new Queue<Node<int>>();
+            Queue<Node<string>> outputQueue = new Queue<Node<string>>();
+
+            inputQueue.Enqueue(root);
+            outputQueue.Enqueue(fizzBuzz.Root);
+
+            while (inputQueue.Count > 0)
+            {
+                Node<int> currentInputNode = inputQueue.Dequeue();
+                Node<string> currentOutputNode = outputQueue.Dequeue();
+
+                if (currentInputNode.Left != null)
+                {
+                    currentOutputNode.Left = new Node<string>(FizzBuzzValue(currentInputNode.Left.Data));
+                    inputQueue.Enqueue(currentInputNode.Left);
+                    outputQueue.Enqueue(currentOutputNode.Left);
+                }
+
+                if (currentInputNode.Right != null)
+                {
+                    currentOutputNode.Right = new Node<string>(FizzBuzzValue(currentInputNode.Right.Data));
+                    inputQueue.Enqueue(currentInputNode.Right);
+                    outputQueue.Enqueue(currentOutputNode.Right);
+                }
+            }
+            return fizzBuzz;
+        }
+        private string FizzBuzzValue(int value)
+        {
+            if (value % 3 == 0 && value % 5 == 0)
+            {
+                return "FizzBuzz";
+            }
+            else if (value % 3 == 0)
+            {
+                return "Fizz";
+            }
+            else if (value % 5 == 0)
+            {
+                return "Buzz";
+            }
+            else
+            {
+                return value.ToString();
+            }
         }
     }
 }

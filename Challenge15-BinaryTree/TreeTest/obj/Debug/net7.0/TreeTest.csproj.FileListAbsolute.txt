@@ -103,3 +103,12 @@ F:\.net\data-structures-and-algorithms\Challenge15-BinaryTree\TreeTest\obj\Debug
 F:\.net\data-structures-and-algorithms\Challenge15-BinaryTree\TreeTest\obj\Debug\net7.0\TreeTest.pdb
 F:\.net\data-structures-and-algorithms\Challenge15-BinaryTree\TreeTest\obj\Debug\net7.0\TreeTest.genruntimeconfig.cache
 F:\.net\data-structures-and-algorithms\Challenge15-BinaryTree\TreeTest\obj\Debug\net7.0\ref\TreeTest.dll
+C:\Users\abboo\Source\Repos\Abdallahalomarii\data-structures-and-algorithms\Challenge15-BinaryTree\TreeTest\bin\Debug\net7.0\CoverletSourceRootsMapping
+C:\Users\abboo\Source\Repos\Abdallahalomarii\data-structures-and-algorithms\Challenge15-BinaryTree\TreeTest\obj\Debug\net7.0\TreeTest.csproj.AssemblyReference.cache
+C:\Users\abboo\Source\Repos\Abdallahalomarii\data-structures-and-algorithms\Challenge15-BinaryTree\TreeTest\obj\Debug\net7.0\TreeTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abboo\Source\Repos\Abdallahalomarii\data-structures-and-algorithms\Challenge15-BinaryTree\TreeTest\obj\Debug\net7.0\TreeTest.AssemblyInfoInputs.cache
+C:\Users\abboo\Source\Repos\Abdallahalomarii\data-structures-and-algorithms\Challenge15-BinaryTree\TreeTest\obj\Debug\net7.0\TreeTest.AssemblyInfo.cs
+C:\Users\abboo\Source\Repos\Abdallahalomarii\data-structures-and-algorithms\Challenge15-BinaryTree\TreeTest\obj\Debug\net7.0\TreeTest.csproj.CoreCompileInputs.cache
+C:\Users\abboo\Source\Repos\Abdallahalomarii\data-structures-and-algorithms\Challenge15-BinaryTree\TreeTest\obj\Debug\net7.0\TreeTest.dll
+C:\Users\abboo\Source\Repos\Abdallahalomarii\data-structures-and-algorithms\Challenge15-BinaryTree\TreeTest\obj\Debug\net7.0\refint\TreeTest.dll
+C:\Users\abboo\Source\Repos\Abdallahalomarii\data-structures-and-algorithms\Challenge15-BinaryTree\TreeTest\obj\Debug\net7.0\TreeTest.pdb

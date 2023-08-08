@@ -6,20 +6,20 @@ using System.Threading.Tasks;
 
 namespace Challenge15_BinaryTree
 {
-    public class Node
+    public class Node<T>
     {
-        public int Data { get; set; }
+        public T Data { get; set; }
 
-        public Node? Left { get; set; }
+        public Node<T> Left { get; set; }
 
-        public Node? Right { get; set; }
+        public Node<T> Right { get; set; }
 
         public Node()
         {
             Left = null;
             Right = null;
         }
-        public Node(int data)
+        public Node(T data)
         {
             Data = data;
             Left = null;

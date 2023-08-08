@@ -6,13 +6,13 @@ using System.Threading.Tasks;
 
 namespace Challenge15_BinaryTree
 {
-    public class BinaryTree
+    public class BinaryTree<T> where T : IComparable<T>
     {
-        public int[] PreOder(Node? node, List<int> list)
+        public T[] PreOder(Node<T>? node, List<T> list)
         {
             if (node == null)
             {
-                return new int[0];
+                return new T[0];
             }
             list.Add(node.Data);
             PreOder(node.Left, list);
@@ -20,19 +20,19 @@ namespace Challenge15_BinaryTree
             return list.ToArray();
         }
 
-        public int[] InOrder(Node? node, List<int> list)
+        public T[] InOrder(Node<T>? node, List<T> list)
         {
             if (node == null)
-            { return new int[0]; }
+            { return new T[0]; }
 
             InOrder(node.Left, list);
             list.Add(node.Data);
             InOrder(node.Right, list);
             return list.ToArray();
-        }public int[] PostOrder(Node? node, List<int> list)
+        }public T[] PostOrder(Node<T>? node, List<T> list)
         {
             if (node == null)
-            { return new int[0]; }
+            { return new T[0]; }
 
             InOrder(node.Left, list);
             InOrder(node.Right, list);
