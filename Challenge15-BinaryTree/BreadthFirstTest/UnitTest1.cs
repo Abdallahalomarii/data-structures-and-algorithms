@@ -11,7 +11,7 @@ namespace BreadthFirstTest
             Program program = new();
             
 
-            BinarySearchTree tree= new BinarySearchTree();
+            BinarySearchTree<int> tree= new BinarySearchTree<int>();
 
 
             var result = program.BreadthFirst(tree);
@@ -24,7 +24,7 @@ namespace BreadthFirstTest
         {
             Program program = new();
 
-            BinarySearchTree tree = new BinarySearchTree();
+            BinarySearchTree<int> tree = new BinarySearchTree<int>();
 
             tree.Add(20);
             tree.Add(30);
