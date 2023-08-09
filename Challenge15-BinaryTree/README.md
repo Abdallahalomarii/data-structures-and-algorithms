@@ -87,3 +87,29 @@
 	- here are some screen shots for my code :camera:
 
 		- ![BTF](./BFcode.png)
+
+- # FizzBuzz Tree
+
+	- ## Whiteboard
+
+		![whiteboard](./fizzbuzz.jpg)
+
+
+	- ## Approach & Efficiency 
+
+		- Create a function that has an approach to use queue to enqueue the node and to dequeue
+		the node and make a comapre on each time after dequeue the node i used to queues in order
+		to catch the integer tree and the other one which should return tree of strings 
+		and created an external function to return if the value is fizz or fizzBuzz or buzz or none of these
+		and return the string value so it accept an integer 
+
+    	- Time and Space Complexitiy is O(N) in wrost cases 
+
+
+	- ## Solutions
+
+		- here are some shots for my code :camera:
+			
+			- ![fizzbuzzcode](./fizzBuzzCode.png)
+
+			- ![fizz buzz Solution](./fizzbuzzsolution.png)

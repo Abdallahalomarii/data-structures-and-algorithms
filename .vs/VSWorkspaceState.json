@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\Challenge15-BinaryTree",
-    "\\Challenge15-BinaryTree\\BreadthFirstTest"
+    "\\Challenge15-BinaryTree\\BreadthFirstTest",
+    "\\Challenge15-BinaryTree\\Challenge15-BinaryTree"
   ],
-  "SelectedNode": "\\Challenge15-BinaryTree\\BreadthFirstTest\\UnitTest1.cs",
+  "SelectedNode": "\\Challenge15-BinaryTree\\Challenge15-BinaryTree\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
