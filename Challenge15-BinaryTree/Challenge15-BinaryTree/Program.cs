@@ -40,14 +40,14 @@
             Console.WriteLine($"The Max Value in The Tree is : {newTree.FindMax()}");
 
             Console.WriteLine("\nBreadth First here -----");
-            var breadthFirst = String.Join(",",new Program().BreadthFirst(newTree));
+            var breadthFirst = String.Join(",",BreadthFirst(newTree));
 
             Console.WriteLine(breadthFirst);
 
             
             Console.WriteLine();
 
-            var x = new Program().FizzBuzz(newTree);
+            var x = FizzBuzz(newTree);
 
             string karyPost = string.Join(", ", x.PostOrder(x.Root, new List<string>()));
 
@@ -55,7 +55,7 @@
 
         }
         // 20 15 30 10 25 35 5 21 40
-        public int[] BreadthFirst(BinarySearchTree<int> tree)
+        public static int[] BreadthFirst(BinarySearchTree<int> tree)
         {
             var root = tree.Root;
 
@@ -91,7 +91,7 @@
 
         }
 
-        public BinarySearchTree<string> FizzBuzz(BinarySearchTree<int> tree)
+        public static BinarySearchTree<string> FizzBuzz(BinarySearchTree<int> tree)
         {
             var root = tree.Root;
 
@@ -130,7 +130,7 @@
             }
             return fizzBuzz;
         }
-        private string FizzBuzzValue(int value)
+        private static string FizzBuzzValue(int value)
         {
             if (value % 3 == 0 && value % 5 == 0)
             {
