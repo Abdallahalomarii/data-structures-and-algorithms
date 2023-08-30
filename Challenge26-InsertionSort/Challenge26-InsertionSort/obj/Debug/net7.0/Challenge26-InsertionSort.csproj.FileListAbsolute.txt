@@ -1,0 +1,14 @@
+F:\.net\Abdallahalomarii\data-structures-and-algorithms\Challenge26-InsertionSort\Challenge26-InsertionSort\bin\Debug\net7.0\Challenge26-InsertionSort.exe
+F:\.net\Abdallahalomarii\data-structures-and-algorithms\Challenge26-InsertionSort\Challenge26-InsertionSort\bin\Debug\net7.0\Challenge26-InsertionSort.deps.json
+F:\.net\Abdallahalomarii\data-structures-and-algorithms\Challenge26-InsertionSort\Challenge26-InsertionSort\bin\Debug\net7.0\Challenge26-InsertionSort.runtimeconfig.json
+F:\.net\Abdallahalomarii\data-structures-and-algorithms\Challenge26-InsertionSort\Challenge26-InsertionSort\bin\Debug\net7.0\Challenge26-InsertionSort.dll
+F:\.net\Abdallahalomarii\data-structures-and-algorithms\Challenge26-InsertionSort\Challenge26-InsertionSort\bin\Debug\net7.0\Challenge26-InsertionSort.pdb
+F:\.net\Abdallahalomarii\data-structures-and-algorithms\Challenge26-InsertionSort\Challenge26-InsertionSort\obj\Debug\net7.0\Challenge26-InsertionSort.GeneratedMSBuildEditorConfig.editorconfig
+F:\.net\Abdallahalomarii\data-structures-and-algorithms\Challenge26-InsertionSort\Challenge26-InsertionSort\obj\Debug\net7.0\Challenge26-InsertionSort.AssemblyInfoInputs.cache
+F:\.net\Abdallahalomarii\data-structures-and-algorithms\Challenge26-InsertionSort\Challenge26-InsertionSort\obj\Debug\net7.0\Challenge26-InsertionSort.AssemblyInfo.cs
+F:\.net\Abdallahalomarii\data-structures-and-algorithms\Challenge26-InsertionSort\Challenge26-InsertionSort\obj\Debug\net7.0\Challenge26-InsertionSort.csproj.CoreCompileInputs.cache
+F:\.net\Abdallahalomarii\data-structures-and-algorithms\Challenge26-InsertionSort\Challenge26-InsertionSort\obj\Debug\net7.0\Challenge26-InsertionSort.dll
+F:\.net\Abdallahalomarii\data-structures-and-algorithms\Challenge26-InsertionSort\Challenge26-InsertionSort\obj\Debug\net7.0\refint\Challenge26-InsertionSort.dll
+F:\.net\Abdallahalomarii\data-structures-and-algorithms\Challenge26-InsertionSort\Challenge26-InsertionSort\obj\Debug\net7.0\Challenge26-InsertionSort.pdb
+F:\.net\Abdallahalomarii\data-structures-and-algorithms\Challenge26-InsertionSort\Challenge26-InsertionSort\obj\Debug\net7.0\Challenge26-InsertionSort.genruntimeconfig.cache
+F:\.net\Abdallahalomarii\data-structures-and-algorithms\Challenge26-InsertionSort\Challenge26-InsertionSort\obj\Debug\net7.0\ref\Challenge26-InsertionSort.dll
