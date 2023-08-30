@@ -6,7 +6,8 @@
         {
 
             BinarySearchTree<int> newTree = new BinarySearchTree<int>();
-
+            BinarySearchTree<int> newTree2 = new BinarySearchTree<int>();
+            // First Tree
             newTree.Add(20);
             newTree.Add(30);
             newTree.Add(25);
@@ -16,6 +17,14 @@
             newTree.Add(5);
             newTree.Add(35);
             newTree.Add(21);
+           // Second tree 
+
+
+            newTree2.Add(20);
+            newTree2.Add(30);
+            newTree2.Add(25);
+           
+
 
             Console.WriteLine("InOrder Traversal here -----");
             string result2 = String.Join(",", newTree.InOrder(newTree.Root, new List<int>()));
@@ -40,11 +49,11 @@
             Console.WriteLine($"The Max Value in The Tree is : {newTree.FindMax()}");
 
             Console.WriteLine("\nBreadth First here -----");
-            var breadthFirst = String.Join(",",BreadthFirst(newTree));
+            var breadthFirst = String.Join(",", BreadthFirst(newTree));
 
             Console.WriteLine(breadthFirst);
 
-            
+
             Console.WriteLine();
 
             var x = FizzBuzz(newTree);
@@ -52,6 +61,8 @@
             string karyPost = string.Join(", ", x.PostOrder(x.Root, new List<string>()));
 
             Console.WriteLine(karyPost);
+
+            Console.WriteLine(CompareTrees(newTree, newTree2));
 
         }
         // 20 15 30 10 25 35 5 21 40
@@ -148,6 +159,52 @@
             {
                 return value.ToString();
             }
+        }
+
+        public static bool CompareTrees(BinarySearchTree<int> tree1, BinarySearchTree<int> tree2)
+        {
+           int firstTreeCounter = CountTrees(tree1);
+
+           int secondTreeCounter = CountTrees(tree2);
+
+            if (firstTreeCounter == secondTreeCounter)
+            {
+                return true;
+            }
+            else
+            { return false; }
+        }
+
+        public static int CountTrees(BinarySearchTree<int> tree1)
+        {
+            var root = tree1.Root;
+
+            if (root == null)
+                return 0;
+
+            int count = 0; 
+
+            Queue<Node<int>> nodes = new Queue<Node<int>>();
+            nodes.Enqueue(root);
+
+            while(nodes.Count > 0)
+            {
+                Node<int> node = nodes.Dequeue();
+
+                if (node.Left == null && node.Right == null)
+                {
+                    count++;
+                }
+                if (node.Left != null)
+                {
+                    nodes.Enqueue(node.Left);
+                }
+                if (node.Right != null)
+                {
+                    nodes.Enqueue(node.Right);
+                }
+            }
+            return count;
         }
     }
 }

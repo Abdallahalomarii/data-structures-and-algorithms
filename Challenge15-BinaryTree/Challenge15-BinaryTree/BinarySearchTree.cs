@@ -101,7 +101,7 @@ namespace Challenge15_BinaryTree
                 T maxValue = default(T);
                 while (currentChild != null)
                 {
-                    if (currentChild.Data.CompareTo(maxValue) >0)
+                    if (currentChild.Data.CompareTo(maxValue) > 0)
                     {
                         maxValue = currentChild.Data;
                     }
@@ -109,14 +109,12 @@ namespace Challenge15_BinaryTree
                     {
                         currentChild = currentChild.Left;
                     }
-                    else 
+                    else
                     {
                         currentChild = currentChild.Right;
                     }
-
-
                 }
-                    return maxValue;
+                return maxValue;
             }
         }
     }
