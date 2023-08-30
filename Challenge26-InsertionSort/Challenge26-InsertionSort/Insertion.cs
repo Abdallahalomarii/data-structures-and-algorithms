@@ -28,3 +28,4 @@ namespace Challenge26_InsertionSort
         }
     }
 }
+    
