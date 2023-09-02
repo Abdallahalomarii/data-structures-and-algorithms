@@ -23,4 +23,6 @@
 - [CodeChallege15-19](./Challenge15-BinaryTree/README.md)
 
 - [CodeChallenge26-InsertionSort](./Challenge26-InsertionSort/README.md)
+ 
+- [CodeChallenge27-MergeSort](./Challenge27-MergeSort/README.md)
 
