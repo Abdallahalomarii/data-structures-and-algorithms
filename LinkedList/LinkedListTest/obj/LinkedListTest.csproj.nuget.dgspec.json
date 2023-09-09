@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\.net\\data-structures-and-algorithms\\LinkedList\\LinkedListTest\\LinkedListTest.csproj": {}
+    "F:\\.net\\Abdallahalomarii\\data-structures-and-algorithms\\LinkedList\\LinkedListTest\\LinkedListTest.csproj": {}
   },
   "projects": {
-    "F:\\.net\\data-structures-and-algorithms\\LinkedList\\LinkedListTest\\LinkedListTest.csproj": {
+    "F:\\.net\\Abdallahalomarii\\data-structures-and-algorithms\\LinkedList\\LinkedListTest\\LinkedListTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\.net\\data-structures-and-algorithms\\LinkedList\\LinkedListTest\\LinkedListTest.csproj",
+        "projectUniqueName": "F:\\.net\\Abdallahalomarii\\data-structures-and-algorithms\\LinkedList\\LinkedListTest\\LinkedListTest.csproj",
         "projectName": "LinkedListTest",
-        "projectPath": "F:\\.net\\data-structures-and-algorithms\\LinkedList\\LinkedListTest\\LinkedListTest.csproj",
+        "projectPath": "F:\\.net\\Abdallahalomarii\\data-structures-and-algorithms\\LinkedList\\LinkedListTest\\LinkedListTest.csproj",
         "packagesPath": "C:\\Users\\abboo\\.nuget\\packages\\",
-        "outputPath": "F:\\.net\\data-structures-and-algorithms\\LinkedList\\LinkedListTest\\obj\\",
+        "outputPath": "F:\\.net\\Abdallahalomarii\\data-structures-and-algorithms\\LinkedList\\LinkedListTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abboo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "F:\\.net\\data-structures-and-algorithms\\LinkedList\\LinkedList\\LinkedList.csproj": {
-                "projectPath": "F:\\.net\\data-structures-and-algorithms\\LinkedList\\LinkedList\\LinkedList.csproj"
+              "F:\\.net\\Abdallahalomarii\\data-structures-and-algorithms\\LinkedList\\LinkedList\\LinkedList.csproj": {
+                "projectPath": "F:\\.net\\Abdallahalomarii\\data-structures-and-algorithms\\LinkedList\\LinkedList\\LinkedList.csproj"
               }
             }
           }
@@ -85,14 +85,14 @@
         }
       }
     },
-    "F:\\.net\\data-structures-and-algorithms\\LinkedList\\LinkedList\\LinkedList.csproj": {
+    "F:\\.net\\Abdallahalomarii\\data-structures-and-algorithms\\LinkedList\\LinkedList\\LinkedList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\.net\\data-structures-and-algorithms\\LinkedList\\LinkedList\\LinkedList.csproj",
+        "projectUniqueName": "F:\\.net\\Abdallahalomarii\\data-structures-and-algorithms\\LinkedList\\LinkedList\\LinkedList.csproj",
         "projectName": "LinkedList",
-        "projectPath": "F:\\.net\\data-structures-and-algorithms\\LinkedList\\LinkedList\\LinkedList.csproj",
+        "projectPath": "F:\\.net\\Abdallahalomarii\\data-structures-and-algorithms\\LinkedList\\LinkedList\\LinkedList.csproj",
         "packagesPath": "C:\\Users\\abboo\\.nuget\\packages\\",
-        "outputPath": "F:\\.net\\data-structures-and-algorithms\\LinkedList\\LinkedList\\obj\\",
+        "outputPath": "F:\\.net\\Abdallahalomarii\\data-structures-and-algorithms\\LinkedList\\LinkedList\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abboo\\AppData\\Roaming\\NuGet\\NuGet.Config",

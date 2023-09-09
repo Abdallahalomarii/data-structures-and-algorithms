@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\.net\\data-structures-and-algorithms\\Challange06-insertion-linked-list\\Challange06-insertion-linked-list\\Challange06-insertion-linked-list.csproj": {}
+    "F:\\.net\\Abdallahalomarii\\data-structures-and-algorithms\\Challange06-insertion-linked-list\\Challange06-insertion-linked-list\\Challange06-insertion-linked-list.csproj": {}
   },
   "projects": {
-    "F:\\.net\\data-structures-and-algorithms\\Challange06-insertion-linked-list\\Challange06-insertion-linked-list\\Challange06-insertion-linked-list.csproj": {
+    "F:\\.net\\Abdallahalomarii\\data-structures-and-algorithms\\Challange06-insertion-linked-list\\Challange06-insertion-linked-list\\Challange06-insertion-linked-list.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\.net\\data-structures-and-algorithms\\Challange06-insertion-linked-list\\Challange06-insertion-linked-list\\Challange06-insertion-linked-list.csproj",
+        "projectUniqueName": "F:\\.net\\Abdallahalomarii\\data-structures-and-algorithms\\Challange06-insertion-linked-list\\Challange06-insertion-linked-list\\Challange06-insertion-linked-list.csproj",
         "projectName": "Challange06-insertion-linked-list",
-        "projectPath": "F:\\.net\\data-structures-and-algorithms\\Challange06-insertion-linked-list\\Challange06-insertion-linked-list\\Challange06-insertion-linked-list.csproj",
+        "projectPath": "F:\\.net\\Abdallahalomarii\\data-structures-and-algorithms\\Challange06-insertion-linked-list\\Challange06-insertion-linked-list\\Challange06-insertion-linked-list.csproj",
         "packagesPath": "C:\\Users\\abboo\\.nuget\\packages\\",
-        "outputPath": "F:\\.net\\data-structures-and-algorithms\\Challange06-insertion-linked-list\\Challange06-insertion-linked-list\\obj\\",
+        "outputPath": "F:\\.net\\Abdallahalomarii\\data-structures-and-algorithms\\Challange06-insertion-linked-list\\Challange06-insertion-linked-list\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abboo\\AppData\\Roaming\\NuGet\\NuGet.Config",

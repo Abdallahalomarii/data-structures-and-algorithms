@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\.net\\data-structures-and-algorithms\\Challange07-linked-list-kth\\LLkthTest\\LLkthTest.csproj": {}
+    "F:\\.net\\Abdallahalomarii\\data-structures-and-algorithms\\Challange07-linked-list-kth\\LLkthTest\\LLkthTest.csproj": {}
   },
   "projects": {
-    "F:\\.net\\data-structures-and-algorithms\\Challange07-linked-list-kth\\linked-list-kth\\linked-list-kth.csproj": {
+    "F:\\.net\\Abdallahalomarii\\data-structures-and-algorithms\\Challange07-linked-list-kth\\linked-list-kth\\linked-list-kth.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\.net\\data-structures-and-algorithms\\Challange07-linked-list-kth\\linked-list-kth\\linked-list-kth.csproj",
+        "projectUniqueName": "F:\\.net\\Abdallahalomarii\\data-structures-and-algorithms\\Challange07-linked-list-kth\\linked-list-kth\\linked-list-kth.csproj",
         "projectName": "linked-list-kth",
-        "projectPath": "F:\\.net\\data-structures-and-algorithms\\Challange07-linked-list-kth\\linked-list-kth\\linked-list-kth.csproj",
+        "projectPath": "F:\\.net\\Abdallahalomarii\\data-structures-and-algorithms\\Challange07-linked-list-kth\\linked-list-kth\\linked-list-kth.csproj",
         "packagesPath": "C:\\Users\\abboo\\.nuget\\packages\\",
-        "outputPath": "F:\\.net\\data-structures-and-algorithms\\Challange07-linked-list-kth\\linked-list-kth\\obj\\",
+        "outputPath": "F:\\.net\\Abdallahalomarii\\data-structures-and-algorithms\\Challange07-linked-list-kth\\linked-list-kth\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abboo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -59,14 +59,14 @@
         }
       }
     },
-    "F:\\.net\\data-structures-and-algorithms\\Challange07-linked-list-kth\\LLkthTest\\LLkthTest.csproj": {
+    "F:\\.net\\Abdallahalomarii\\data-structures-and-algorithms\\Challange07-linked-list-kth\\LLkthTest\\LLkthTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\.net\\data-structures-and-algorithms\\Challange07-linked-list-kth\\LLkthTest\\LLkthTest.csproj",
+        "projectUniqueName": "F:\\.net\\Abdallahalomarii\\data-structures-and-algorithms\\Challange07-linked-list-kth\\LLkthTest\\LLkthTest.csproj",
         "projectName": "LLkthTest",
-        "projectPath": "F:\\.net\\data-structures-and-algorithms\\Challange07-linked-list-kth\\LLkthTest\\LLkthTest.csproj",
+        "projectPath": "F:\\.net\\Abdallahalomarii\\data-structures-and-algorithms\\Challange07-linked-list-kth\\LLkthTest\\LLkthTest.csproj",
         "packagesPath": "C:\\Users\\abboo\\.nuget\\packages\\",
-        "outputPath": "F:\\.net\\data-structures-and-algorithms\\Challange07-linked-list-kth\\LLkthTest\\obj\\",
+        "outputPath": "F:\\.net\\Abdallahalomarii\\data-structures-and-algorithms\\Challange07-linked-list-kth\\LLkthTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abboo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -83,8 +83,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "F:\\.net\\data-structures-and-algorithms\\Challange07-linked-list-kth\\linked-list-kth\\linked-list-kth.csproj": {
-                "projectPath": "F:\\.net\\data-structures-and-algorithms\\Challange07-linked-list-kth\\linked-list-kth\\linked-list-kth.csproj"
+              "F:\\.net\\Abdallahalomarii\\data-structures-and-algorithms\\Challange07-linked-list-kth\\linked-list-kth\\linked-list-kth.csproj": {
+                "projectPath": "F:\\.net\\Abdallahalomarii\\data-structures-and-algorithms\\Challange07-linked-list-kth\\linked-list-kth\\linked-list-kth.csproj"
               }
             }
           }
