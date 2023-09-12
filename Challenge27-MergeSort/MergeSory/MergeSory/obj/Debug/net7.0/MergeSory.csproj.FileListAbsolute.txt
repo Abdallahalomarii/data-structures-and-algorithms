@@ -1,0 +1,14 @@
+F:\.net\Abdallahalomarii\data-structures-and-algorithms\Challenge27-MergeSort\MergeSory\MergeSory\bin\Debug\net7.0\MergeSory.exe
+F:\.net\Abdallahalomarii\data-structures-and-algorithms\Challenge27-MergeSort\MergeSory\MergeSory\bin\Debug\net7.0\MergeSory.deps.json
+F:\.net\Abdallahalomarii\data-structures-and-algorithms\Challenge27-MergeSort\MergeSory\MergeSory\bin\Debug\net7.0\MergeSory.runtimeconfig.json
+F:\.net\Abdallahalomarii\data-structures-and-algorithms\Challenge27-MergeSort\MergeSory\MergeSory\bin\Debug\net7.0\MergeSory.dll
+F:\.net\Abdallahalomarii\data-structures-and-algorithms\Challenge27-MergeSort\MergeSory\MergeSory\bin\Debug\net7.0\MergeSory.pdb
+F:\.net\Abdallahalomarii\data-structures-and-algorithms\Challenge27-MergeSort\MergeSory\MergeSory\obj\Debug\net7.0\MergeSory.GeneratedMSBuildEditorConfig.editorconfig
+F:\.net\Abdallahalomarii\data-structures-and-algorithms\Challenge27-MergeSort\MergeSory\MergeSory\obj\Debug\net7.0\MergeSory.AssemblyInfoInputs.cache
+F:\.net\Abdallahalomarii\data-structures-and-algorithms\Challenge27-MergeSort\MergeSory\MergeSory\obj\Debug\net7.0\MergeSory.AssemblyInfo.cs
+F:\.net\Abdallahalomarii\data-structures-and-algorithms\Challenge27-MergeSort\MergeSory\MergeSory\obj\Debug\net7.0\MergeSory.csproj.CoreCompileInputs.cache
+F:\.net\Abdallahalomarii\data-structures-and-algorithms\Challenge27-MergeSort\MergeSory\MergeSory\obj\Debug\net7.0\MergeSory.dll
+F:\.net\Abdallahalomarii\data-structures-and-algorithms\Challenge27-MergeSort\MergeSory\MergeSory\obj\Debug\net7.0\refint\MergeSory.dll
+F:\.net\Abdallahalomarii\data-structures-and-algorithms\Challenge27-MergeSort\MergeSory\MergeSory\obj\Debug\net7.0\MergeSory.pdb
+F:\.net\Abdallahalomarii\data-structures-and-algorithms\Challenge27-MergeSort\MergeSory\MergeSory\obj\Debug\net7.0\MergeSory.genruntimeconfig.cache
+F:\.net\Abdallahalomarii\data-structures-and-algorithms\Challenge27-MergeSort\MergeSory\MergeSory\obj\Debug\net7.0\ref\MergeSory.dll
