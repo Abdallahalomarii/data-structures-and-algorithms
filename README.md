@@ -19,3 +19,5 @@
 - [CodeChallange10-stack-and-queue](./Challenge10-stack-and-queue/README.md)
 
 - [CodeChallenge13-stack-and-queue-brackets](./Challenge13-stack-queue-brackets/README.md)
+
+- [CodeChallenge28-Comparsion String ](./challenge28-SortingComparisons/README.md)
