@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34004.107
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "challenge28-SortingComparisons", "challenge28-SortingComparisons\challenge28-SortingComparisons.csproj", "{04C9CF1F-151D-4D61-A7D8-3A368CD50F66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{3FABFCE1-C97E-497F-8EA1-4F68D0D60ED3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04C9CF1F-151D-4D61-A7D8-3A368CD50F66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04C9CF1F-151D-4D61-A7D8-3A368CD50F66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04C9CF1F-151D-4D61-A7D8-3A368CD50F66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04C9CF1F-151D-4D61-A7D8-3A368CD50F66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FABFCE1-C97E-497F-8EA1-4F68D0D60ED3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FABFCE1-C97E-497F-8EA1-4F68D0D60ED3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FABFCE1-C97E-497F-8EA1-4F68D0D60ED3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FABFCE1-C97E-497F-8EA1-4F68D0D60ED3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AFF7CD29-0883-4EF1-BA9A-672E6824CD42}
+	EndGlobalSection
+EndGlobal

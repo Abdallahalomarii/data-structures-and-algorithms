@@ -18,6 +18,9 @@
         After adding 16: sorted = [4, 8, 16, 23, 42]
         After adding 15: sorted = [4, 8, 15, 16, 23, 42]
 
+
+    - # WhiteBoard 
+        ![WiteBoard](./WhiteBoard.jpg)
     - ### Effeiceny & Approach 
 
         -I used an inner loops to sort the array the first one is to loop though the items 
@@ -25,3 +28,9 @@
 
          the Big o for this code is O(n^2) it can be O(N) if i used the divide and conqur algorihtim 
          and the space compleixity is going to be O(N)
+
+    - ### Code Samples 
+        
+        - ![Code1](./code1.png)
+        - ![Code2](./code2.png)
+        - ![result](./result.png)

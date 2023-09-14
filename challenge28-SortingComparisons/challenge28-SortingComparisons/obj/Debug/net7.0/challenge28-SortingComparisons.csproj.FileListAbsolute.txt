@@ -1,0 +1,14 @@
+F:\.net\Abdallahalomarii\data-structures-and-algorithms\challenge28-SortingComparisons\challenge28-SortingComparisons\bin\Debug\net7.0\challenge28-SortingComparisons.exe
+F:\.net\Abdallahalomarii\data-structures-and-algorithms\challenge28-SortingComparisons\challenge28-SortingComparisons\bin\Debug\net7.0\challenge28-SortingComparisons.deps.json
+F:\.net\Abdallahalomarii\data-structures-and-algorithms\challenge28-SortingComparisons\challenge28-SortingComparisons\bin\Debug\net7.0\challenge28-SortingComparisons.runtimeconfig.json
+F:\.net\Abdallahalomarii\data-structures-and-algorithms\challenge28-SortingComparisons\challenge28-SortingComparisons\bin\Debug\net7.0\challenge28-SortingComparisons.dll
+F:\.net\Abdallahalomarii\data-structures-and-algorithms\challenge28-SortingComparisons\challenge28-SortingComparisons\bin\Debug\net7.0\challenge28-SortingComparisons.pdb
+F:\.net\Abdallahalomarii\data-structures-and-algorithms\challenge28-SortingComparisons\challenge28-SortingComparisons\obj\Debug\net7.0\challenge28-SortingComparisons.GeneratedMSBuildEditorConfig.editorconfig
+F:\.net\Abdallahalomarii\data-structures-and-algorithms\challenge28-SortingComparisons\challenge28-SortingComparisons\obj\Debug\net7.0\challenge28-SortingComparisons.AssemblyInfoInputs.cache
+F:\.net\Abdallahalomarii\data-structures-and-algorithms\challenge28-SortingComparisons\challenge28-SortingComparisons\obj\Debug\net7.0\challenge28-SortingComparisons.AssemblyInfo.cs
+F:\.net\Abdallahalomarii\data-structures-and-algorithms\challenge28-SortingComparisons\challenge28-SortingComparisons\obj\Debug\net7.0\challenge28-SortingComparisons.csproj.CoreCompileInputs.cache
+F:\.net\Abdallahalomarii\data-structures-and-algorithms\challenge28-SortingComparisons\challenge28-SortingComparisons\obj\Debug\net7.0\challenge28-SortingComparisons.dll
+F:\.net\Abdallahalomarii\data-structures-and-algorithms\challenge28-SortingComparisons\challenge28-SortingComparisons\obj\Debug\net7.0\refint\challenge28-SortingComparisons.dll
+F:\.net\Abdallahalomarii\data-structures-and-algorithms\challenge28-SortingComparisons\challenge28-SortingComparisons\obj\Debug\net7.0\challenge28-SortingComparisons.pdb
+F:\.net\Abdallahalomarii\data-structures-and-algorithms\challenge28-SortingComparisons\challenge28-SortingComparisons\obj\Debug\net7.0\challenge28-SortingComparisons.genruntimeconfig.cache
+F:\.net\Abdallahalomarii\data-structures-and-algorithms\challenge28-SortingComparisons\challenge28-SortingComparisons\obj\Debug\net7.0\ref\challenge28-SortingComparisons.dll

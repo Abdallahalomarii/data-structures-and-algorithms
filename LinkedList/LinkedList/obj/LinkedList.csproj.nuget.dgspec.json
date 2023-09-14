@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\.net\\data-structures-and-algorithms\\LinkedList\\LinkedList\\LinkedList.csproj": {}
+    "F:\\.net\\Abdallahalomarii\\data-structures-and-algorithms\\LinkedList\\LinkedList\\LinkedList.csproj": {}
   },
   "projects": {
-    "F:\\.net\\data-structures-and-algorithms\\LinkedList\\LinkedList\\LinkedList.csproj": {
+    "F:\\.net\\Abdallahalomarii\\data-structures-and-algorithms\\LinkedList\\LinkedList\\LinkedList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\.net\\data-structures-and-algorithms\\LinkedList\\LinkedList\\LinkedList.csproj",
+        "projectUniqueName": "F:\\.net\\Abdallahalomarii\\data-structures-and-algorithms\\LinkedList\\LinkedList\\LinkedList.csproj",
         "projectName": "LinkedList",
-        "projectPath": "F:\\.net\\data-structures-and-algorithms\\LinkedList\\LinkedList\\LinkedList.csproj",
+        "projectPath": "F:\\.net\\Abdallahalomarii\\data-structures-and-algorithms\\LinkedList\\LinkedList\\LinkedList.csproj",
         "packagesPath": "C:\\Users\\abboo\\.nuget\\packages\\",
-        "outputPath": "F:\\.net\\data-structures-and-algorithms\\LinkedList\\LinkedList\\obj\\",
+        "outputPath": "F:\\.net\\Abdallahalomarii\\data-structures-and-algorithms\\LinkedList\\LinkedList\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abboo\\AppData\\Roaming\\NuGet\\NuGet.Config",

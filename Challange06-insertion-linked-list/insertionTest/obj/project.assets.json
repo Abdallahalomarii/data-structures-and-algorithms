@@ -5539,11 +5539,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\.net\\data-structures-and-algorithms\\Challange06-insertion-linked-list\\insertionTest\\insertionTest.csproj",
+      "projectUniqueName": "F:\\.net\\Abdallahalomarii\\data-structures-and-algorithms\\Challange06-insertion-linked-list\\insertionTest\\insertionTest.csproj",
       "projectName": "insertionTest",
-      "projectPath": "F:\\.net\\data-structures-and-algorithms\\Challange06-insertion-linked-list\\insertionTest\\insertionTest.csproj",
+      "projectPath": "F:\\.net\\Abdallahalomarii\\data-structures-and-algorithms\\Challange06-insertion-linked-list\\insertionTest\\insertionTest.csproj",
       "packagesPath": "C:\\Users\\abboo\\.nuget\\packages\\",
-      "outputPath": "F:\\.net\\data-structures-and-algorithms\\Challange06-insertion-linked-list\\insertionTest\\obj\\",
+      "outputPath": "F:\\.net\\Abdallahalomarii\\data-structures-and-algorithms\\Challange06-insertion-linked-list\\insertionTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\abboo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5560,8 +5560,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "F:\\.net\\data-structures-and-algorithms\\Challange06-insertion-linked-list\\Challange06-insertion-linked-list\\Challange06-insertion-linked-list.csproj": {
-              "projectPath": "F:\\.net\\data-structures-and-algorithms\\Challange06-insertion-linked-list\\Challange06-insertion-linked-list\\Challange06-insertion-linked-list.csproj"
+            "F:\\.net\\Abdallahalomarii\\data-structures-and-algorithms\\Challange06-insertion-linked-list\\Challange06-insertion-linked-list\\Challange06-insertion-linked-list.csproj": {
+              "projectPath": "F:\\.net\\Abdallahalomarii\\data-structures-and-algorithms\\Challange06-insertion-linked-list\\Challange06-insertion-linked-list\\Challange06-insertion-linked-list.csproj"
             }
           }
         }

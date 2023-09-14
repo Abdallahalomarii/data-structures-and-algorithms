@@ -1,0 +1,14 @@
+F:\.net\Abdallahalomarii\data-structures-and-algorithms\MockInterview\MockInterview\bin\Debug\net7.0\MockInterview.exe
+F:\.net\Abdallahalomarii\data-structures-and-algorithms\MockInterview\MockInterview\bin\Debug\net7.0\MockInterview.deps.json
+F:\.net\Abdallahalomarii\data-structures-and-algorithms\MockInterview\MockInterview\bin\Debug\net7.0\MockInterview.runtimeconfig.json
+F:\.net\Abdallahalomarii\data-structures-and-algorithms\MockInterview\MockInterview\bin\Debug\net7.0\MockInterview.dll
+F:\.net\Abdallahalomarii\data-structures-and-algorithms\MockInterview\MockInterview\bin\Debug\net7.0\MockInterview.pdb
+F:\.net\Abdallahalomarii\data-structures-and-algorithms\MockInterview\MockInterview\obj\Debug\net7.0\MockInterview.GeneratedMSBuildEditorConfig.editorconfig
+F:\.net\Abdallahalomarii\data-structures-and-algorithms\MockInterview\MockInterview\obj\Debug\net7.0\MockInterview.AssemblyInfoInputs.cache
+F:\.net\Abdallahalomarii\data-structures-and-algorithms\MockInterview\MockInterview\obj\Debug\net7.0\MockInterview.AssemblyInfo.cs
+F:\.net\Abdallahalomarii\data-structures-and-algorithms\MockInterview\MockInterview\obj\Debug\net7.0\MockInterview.csproj.CoreCompileInputs.cache
+F:\.net\Abdallahalomarii\data-structures-and-algorithms\MockInterview\MockInterview\obj\Debug\net7.0\MockInterview.dll
+F:\.net\Abdallahalomarii\data-structures-and-algorithms\MockInterview\MockInterview\obj\Debug\net7.0\refint\MockInterview.dll
+F:\.net\Abdallahalomarii\data-structures-and-algorithms\MockInterview\MockInterview\obj\Debug\net7.0\MockInterview.pdb
+F:\.net\Abdallahalomarii\data-structures-and-algorithms\MockInterview\MockInterview\obj\Debug\net7.0\MockInterview.genruntimeconfig.cache
+F:\.net\Abdallahalomarii\data-structures-and-algorithms\MockInterview\MockInterview\obj\Debug\net7.0\ref\MockInterview.dll
