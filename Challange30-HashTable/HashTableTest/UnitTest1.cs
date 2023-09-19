@@ -18,7 +18,7 @@ namespace HashTableTest
 
             Assert.Contains("SE", keys);
             Assert.Equal(0, hashTable.HashIndex("SE"));
-
+            
         }
 
         [Fact]

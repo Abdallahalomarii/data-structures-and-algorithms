@@ -27,3 +27,5 @@
 - [CodeChallenge27-MergeSort](./Challenge27-MergeSort/README.md)
 
 - [CodeChallenge28-Comparsion String ](./challenge28-SortingComparisons/README.md)
+
+- [CodeChallenge31-First Word repeated two times Using hashTable](./Challange30-HashTable/README.md)
