@@ -41,10 +41,7 @@
 
             var repeatedNumbers = tree.Tree_InterSection(tree1, tree2);
 
-            foreach (var number in repeatedNumbers)
-            {
-                Console.WriteLine(number);
-            }
+            repeatedNumbers.Print();
         }
     }
 }
