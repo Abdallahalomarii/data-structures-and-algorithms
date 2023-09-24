@@ -361,3 +361,4 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/Challange30-HashTable/TestRepeatedWord/obj/Debug/net7.0/TestRepeatedWord.csproj.AssemblyReference.cache
