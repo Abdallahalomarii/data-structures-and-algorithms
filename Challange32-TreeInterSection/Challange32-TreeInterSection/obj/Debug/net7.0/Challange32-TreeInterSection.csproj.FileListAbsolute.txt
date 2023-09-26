@@ -1,0 +1,14 @@
+F:\.net\Abdallahalomarii\data-structures-and-algorithms\Challange32-TreeInterSection\Challange32-TreeInterSection\obj\Debug\net7.0\Challange32-TreeInterSection.GeneratedMSBuildEditorConfig.editorconfig
+F:\.net\Abdallahalomarii\data-structures-and-algorithms\Challange32-TreeInterSection\Challange32-TreeInterSection\obj\Debug\net7.0\Challange32-TreeInterSection.AssemblyInfoInputs.cache
+F:\.net\Abdallahalomarii\data-structures-and-algorithms\Challange32-TreeInterSection\Challange32-TreeInterSection\obj\Debug\net7.0\Challange32-TreeInterSection.AssemblyInfo.cs
+F:\.net\Abdallahalomarii\data-structures-and-algorithms\Challange32-TreeInterSection\Challange32-TreeInterSection\obj\Debug\net7.0\Challange32-TreeInterSection.csproj.CoreCompileInputs.cache
+F:\.net\Abdallahalomarii\data-structures-and-algorithms\Challange32-TreeInterSection\Challange32-TreeInterSection\bin\Debug\net7.0\Challange32-TreeInterSection.exe
+F:\.net\Abdallahalomarii\data-structures-and-algorithms\Challange32-TreeInterSection\Challange32-TreeInterSection\bin\Debug\net7.0\Challange32-TreeInterSection.deps.json
+F:\.net\Abdallahalomarii\data-structures-and-algorithms\Challange32-TreeInterSection\Challange32-TreeInterSection\bin\Debug\net7.0\Challange32-TreeInterSection.runtimeconfig.json
+F:\.net\Abdallahalomarii\data-structures-and-algorithms\Challange32-TreeInterSection\Challange32-TreeInterSection\bin\Debug\net7.0\Challange32-TreeInterSection.dll
+F:\.net\Abdallahalomarii\data-structures-and-algorithms\Challange32-TreeInterSection\Challange32-TreeInterSection\bin\Debug\net7.0\Challange32-TreeInterSection.pdb
+F:\.net\Abdallahalomarii\data-structures-and-algorithms\Challange32-TreeInterSection\Challange32-TreeInterSection\obj\Debug\net7.0\Challange32-TreeInterSection.dll
+F:\.net\Abdallahalomarii\data-structures-and-algorithms\Challange32-TreeInterSection\Challange32-TreeInterSection\obj\Debug\net7.0\refint\Challange32-TreeInterSection.dll
+F:\.net\Abdallahalomarii\data-structures-and-algorithms\Challange32-TreeInterSection\Challange32-TreeInterSection\obj\Debug\net7.0\Challange32-TreeInterSection.pdb
+F:\.net\Abdallahalomarii\data-structures-and-algorithms\Challange32-TreeInterSection\Challange32-TreeInterSection\obj\Debug\net7.0\Challange32-TreeInterSection.genruntimeconfig.cache
+F:\.net\Abdallahalomarii\data-structures-and-algorithms\Challange32-TreeInterSection\Challange32-TreeInterSection\obj\Debug\net7.0\ref\Challange32-TreeInterSection.dll
