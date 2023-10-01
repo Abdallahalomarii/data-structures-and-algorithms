@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34004.107
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge35-Graph", "Challenge35-Graph\Challenge35-Graph.csproj", "{6F2482F4-B206-44B4-9902-4AD0CEDE93C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphTest", "GraphTest\GraphTest.csproj", "{3784B670-D680-46F1-950D-69BBFAC91B2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F2482F4-B206-44B4-9902-4AD0CEDE93C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F2482F4-B206-44B4-9902-4AD0CEDE93C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F2482F4-B206-44B4-9902-4AD0CEDE93C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F2482F4-B206-44B4-9902-4AD0CEDE93C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3784B670-D680-46F1-950D-69BBFAC91B2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3784B670-D680-46F1-950D-69BBFAC91B2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3784B670-D680-46F1-950D-69BBFAC91B2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3784B670-D680-46F1-950D-69BBFAC91B2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB5E617C-46C2-49F5-B91F-4C2C82D6D9C8}
+	EndGlobalSection
+EndGlobal
