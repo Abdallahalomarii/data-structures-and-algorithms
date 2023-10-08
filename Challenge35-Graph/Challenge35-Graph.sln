@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Breadthfirst_Test", "Breadt
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Depth-firstTest", "Depth-firstTest\Depth-firstTest.csproj", "{A123193B-1FB0-47B6-B0C7-098C827C825B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "depth-first-test", "depth-first-test\depth-first-test.csproj", "{EA1E3595-49E9-4D74-B9AC-9399677ADC53}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{A123193B-1FB0-47B6-B0C7-098C827C825B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A123193B-1FB0-47B6-B0C7-098C827C825B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A123193B-1FB0-47B6-B0C7-098C827C825B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA1E3595-49E9-4D74-B9AC-9399677ADC53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA1E3595-49E9-4D74-B9AC-9399677ADC53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA1E3595-49E9-4D74-B9AC-9399677ADC53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA1E3595-49E9-4D74-B9AC-9399677ADC53}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
