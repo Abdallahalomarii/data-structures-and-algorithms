@@ -82,11 +82,11 @@ Space Complexity: O(V), where V is the number of vertices.
   - ![](Breadthfirst.png)
 
 
-# Depth first challenge 37
+# Bussnis-trip challenge 37
 
 ## white board 
 
-  - ![White board ](./depthfirst.jpg)
+  - ![White board ](./bussnis-trip.jpg)
 
 
  ## Approach & Efficiency
@@ -115,4 +115,4 @@ Space Complexity: The space complexity is O(1) because it uses a fixed amount of
 
 ## Code :camera:
 
-  - ![](./depth-first.png)
+  - ![](./bussnis-trip.png)
