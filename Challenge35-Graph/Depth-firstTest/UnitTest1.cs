@@ -16,7 +16,7 @@ namespace Depth_firstTest
             graph.AddEdge(cityB, cityC, 150);
 
             // Act
-            var itinerary = new List<string> { "A", "B", "C" };
+            var itinerary = new string[]{ "A", "B", "C" };
             var cost = Program.CalculateCost(graph, itinerary);
 
             // Assert
@@ -34,7 +34,7 @@ namespace Depth_firstTest
             graph.AddEdge(cityA, cityB, 100);
 
             // Act
-            var itinerary = new List<string> { "A", "C" };
+            var itinerary = new string[]{ "A", "C" };
             var cost = Program.CalculateCost(graph, itinerary);
 
             // Assert
@@ -49,7 +49,7 @@ namespace Depth_firstTest
             var cityA = graph.AddVertex("A");
 
             // Act
-            var itinerary = new List<string>();
+            var itinerary = new string[] { };
             var cost = Program.CalculateCost(graph, itinerary);
 
             // Assert

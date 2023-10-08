@@ -122,9 +122,31 @@ namespace Challenge35_Graph
                 return visitedNodes;
         }
 
-        
+        public List<Vertex<T>> DepthFirst(Vertex<T> startVertex)
+        {
+            if (!AdjacencyList.ContainsKey(startVertex))
+                throw new InvalidOperationException("Start vertex is not in the graph.");
 
+            List<Vertex<T>> visitedNodes = new List<Vertex<T>>();
+            HashSet<Vertex<T>> visited = new HashSet<Vertex<T>>();
+
+            DepthFirstRecursive(startVertex, visited, visitedNodes);
+
+            return visitedNodes;    
+        }
+
+        private void DepthFirstRecursive(Vertex<T> currentVertex, HashSet<Vertex<T>> visited, List<Vertex<T>> visitedNodes)
+        {
+            visited.Add(currentVertex);
+            visitedNodes.Add(currentVertex);
+
+            foreach (var edge in AdjacencyList[currentVertex])
+            {
+                if (!visited.Contains(edge.Vertex))
+                {
+                    DepthFirstRecursive(edge.Vertex, visited, visitedNodes);
+                }
+            }
+        }
     }
-
-
 }

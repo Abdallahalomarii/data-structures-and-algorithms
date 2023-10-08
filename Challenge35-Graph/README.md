@@ -116,3 +116,45 @@ Space Complexity: The space complexity is O(1) because it uses a fixed amount of
 ## Code :camera:
 
   - ![](./bussnis-trip.png)
+
+# depth-first challenge 38 
+
+ ## white board
+
+   - ![White board](./WBdepth-first.jpg)
+ ## Approach & Efficiency
+
+ Approach:
+
+Dijkstra's algorithm is a widely used algorithm to find the shortest path in a weighted graph. It works for both directed and undirected graphs, but it assumes that all edge weights are non-negative. Here's a step-by-step approach to solving this problem using Dijkstra's algorithm:
+
+Initialization:
+
+Create a distance array to keep track of the shortest distance from the source vertex to all other vertices. Initialize the distance for the source vertex to 0 and set the distances for all other vertices to infinity.
+Create a set (or priority queue) of unvisited vertices. Initially, this set contains all vertices.
+Create a predecessor array to keep track of the previous vertex on the shortest path to each vertex. Initialize it to null for all vertices.
+Iterate Until All Vertices Are Visited:
+
+While there are unvisited vertices in the set:
+Find the vertex v with the smallest distance in the distance array among the unvisited vertices.
+Remove v from the set of unvisited vertices.
+For each neighbor u of v:
+Calculate the tentative distance from the source to u through v.
+If this tentative distance is less than the current distance stored in the distance array for u, update the distance array and predecessor array for u.
+Path Reconstruction:
+
+Once all vertices have been visited, you can reconstruct the shortest path from the source vertex to the target vertex using the predecessor array.
+Efficiency:
+
+Time Complexity: The time complexity of Dijkstra's algorithm is O(V^2) if implemented with a simple array-based approach, where V is the number of vertices. However, it can be optimized to O(E + V*log(V)) if you use a priority queue (e.g., a binary heap or Fibonacci heap) to select the vertex with the smallest distance efficiently. In practice, the optimized version is more commonly used.
+
+Space Complexity: The space complexity is O(V) for the distance array, predecessor array, and the set of unvisited vertices. In addition, the space required for the priority queue depends on the implementation (e.g., O(V) for a simple array-based priority queue, or O(V*log(V)) for a binary heap). Overall, the space complexity is O(V + E).
+
+Correctness: Dijkstra's algorithm is guaranteed to find the shortest path as long as all edge weights are non-negative. It does not work correctly for graphs with negative-weight edges unless it is modified (e.g., using the Bellman-Ford algorithm or other techniques).
+
+Optimality: Dijkstra's algorithm produces the optimal solution, meaning it finds the shortest path from the source vertex to all other vertices in the graph.
+
+ ## Code :camera:
+
+ -![class](./depth-first-c.png)
+ -![code + output](./depth-first.png)
