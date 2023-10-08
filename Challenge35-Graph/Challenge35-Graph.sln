@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GraphTest", "GraphTest\Grap
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Breadthfirst_Test", "Breadthfirst_Test\Breadthfirst_Test.csproj", "{8692148D-D46C-4A0B-8542-B64B959B314E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Depth-firstTest", "Depth-firstTest\Depth-firstTest.csproj", "{A123193B-1FB0-47B6-B0C7-098C827C825B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{8692148D-D46C-4A0B-8542-B64B959B314E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8692148D-D46C-4A0B-8542-B64B959B314E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8692148D-D46C-4A0B-8542-B64B959B314E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A123193B-1FB0-47B6-B0C7-098C827C825B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A123193B-1FB0-47B6-B0C7-098C827C825B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A123193B-1FB0-47B6-B0C7-098C827C825B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A123193B-1FB0-47B6-B0C7-098C827C825B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

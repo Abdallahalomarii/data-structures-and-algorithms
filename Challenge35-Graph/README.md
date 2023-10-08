@@ -80,3 +80,39 @@ Space Complexity: O(V), where V is the number of vertices.
 ## breadth first Code 
 
   - ![](Breadthfirst.png)
+
+
+# Depth first challenge 37
+
+## white board 
+
+  - ![White board ](./depthfirst.jpg)
+
+
+ ## Approach & Efficiency
+
+ Approach:
+
+The function first checks if the length of the itinerary is less than or equal to 1. If it is, the function returns null because a trip with less than 2 cities is not possible.
+
+It initializes a totalCost variable to 0, which will be used to accumulate the cost of the trip.
+
+The function iterates through the itinerary, one city at a time, and for each pair of consecutive cities, it checks if there is a direct flight available between them. It does this by:
+
+Getting the current city and the next city from the itinerary.
+Getting the current vertex from the graph based on the current city.
+Checking the neighbors (direct flights) of the current vertex and searching for a neighbor that corresponds to the next city.
+If a direct flight is found, it adds the cost of that flight to the totalCost. If not, it returns null because the trip is not possible.
+After processing all cities in the itinerary, the function returns the accumulated totalCost if the trip is possible, or null if not.
+
+
+Efficiency:
+
+Time Complexity: The time complexity of this function is O(N), where N is the number of cities in the itinerary. This is because it iterates through the itinerary once, and for each pair of consecutive cities, it checks for a direct flight, which takes constant time in most cases since it typically involves looking up neighbors in the adjacency list of the graph.
+
+Space Complexity: The space complexity is O(1) because it uses a fixed amount of memory regardless of the input size. The additional memory used for variables like totalCost and directFlightFound does not depend on the size of the input.
+
+
+## Code :camera:
+
+  - ![](./depth-first.png)

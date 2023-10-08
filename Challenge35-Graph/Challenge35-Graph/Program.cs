@@ -11,10 +11,6 @@
             Vertex<string> c = graph.AddVertex("Al-Karak");
             Vertex<string> d = graph.AddVertex("Aqaba");
 
-            graph.AddEdge(a, b, 100);
-            graph.AddEdge(b, c, 240);
-            graph.AddEdge(c, d, 250);
-            graph.AddEdge(c, a, 150);
 
             //Console.WriteLine("Vertices in the graph:");
             //foreach (var vertex in graph.GetVertices())
@@ -31,13 +27,66 @@
 
             //Console.WriteLine("\nSize of the graph: " + graph.Size());
 
-            Console.WriteLine("-------------------------------------");
-            var x = graph.BreadthFirst(a);
+            //Console.WriteLine("-------------------------------------");
+            //var x = graph.BreadthFirst(a);
 
-            foreach (var item in x)
+            //foreach (var item in x)
+            //{
+            //   Console.WriteLine(item.Value);
+            //}
+            graph.AddEdge(a, b, 100);
+            graph.AddEdge(b, c, 240);
+            graph.AddEdge(c, d, 250);
+            graph.AddEdge(c, a, 150);
+
+            string[] itinerary1 = new string[] { "Amman", "Irbid", "Al-Karak" };
+            string[] itinerary2 = new string[] { "Amman", "Irbid", "Al-Karak", "Aqaba" };
+            string[] itinerary3 = new string[] { "Amman", "Al-Karak", "Aqaba" };
+
+            // Calculate costs for the itineraries
+            int? cost1 = CalculateCost(graph, itinerary1);
+            int? cost2 = CalculateCost(graph, itinerary2);
+            int? cost3 = CalculateCost(graph, itinerary3);
+
+            Console.WriteLine("Cost for itinerary 1: " + (cost1.HasValue ? cost1.Value.ToString() : "Not possible"));
+            Console.WriteLine("Cost for itinerary 2: " + (cost2.HasValue ? cost2.Value.ToString() : "Not possible"));
+            Console.WriteLine("Cost for itinerary 3: " + (cost3.HasValue ? cost3.Value.ToString() : "Not possible"));
+        }
+
+        public static int? CalculateCost(Graph<string> graph, string[] itinerary)
+        {
+            if (itinerary.Length <= 1)
             {
-               Console.WriteLine(item.Value);
+                return null; // Trip is not possible with less than 2 cities.
             }
+
+            int totalCost = 0;
+            for (int i = 0; i < itinerary.Length - 1; i++)
+            {
+                var currentCity = itinerary[i];
+                var nextCity = itinerary[i + 1];
+
+                var cuurentVertix = graph.GetVertexByValue(currentCity);
+                // Check if there's a direct flight from currentCity to nextCity.
+                var neighbors = graph.GetNeighbors(cuurentVertix);
+                var directFlightFound = false;
+
+                foreach (var edge in neighbors)
+                {
+                    if (edge.Vertex.Value == nextCity)
+                    {
+                        totalCost += edge.Weight;
+                        directFlightFound = true;
+                        break;
+                    }
+                }
+
+                if (!directFlightFound)
+                {
+                    return null; // Direct flight not available, trip is not possible.
+                }
+            }
+            return totalCost;
         }
     }
 }
