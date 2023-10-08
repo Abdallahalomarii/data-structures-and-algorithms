@@ -8,6 +8,7 @@ namespace Challenge35_Graph
 {
     public class Graph<T>
     {
+
         public Dictionary<Vertex<T>, List<Edge<T>>> AdjacencyList { get; set; }
 
         public Graph()
@@ -79,5 +80,37 @@ namespace Challenge35_Graph
                 Console.WriteLine();
             }
         }
+
+        public List<Vertex<T>> BreadthFirst(Vertex<T> startVertex)
+        {
+            if (!AdjacencyList.ContainsKey(startVertex))
+                throw new InvalidOperationException("Start vertex is not in the graph.");
+
+            List<Vertex<T>> visitedNodes = new List<Vertex<T>>();
+            Queue<Vertex<T>> queue = new Queue<Vertex<T>>();
+            HashSet<Vertex<T>> visited = new HashSet<Vertex<T>>();
+
+            queue.Enqueue(startVertex);
+            visited.Add(startVertex);
+
+            while (queue.Count > 0)
+            {
+                var currentVertex = queue.Dequeue();
+                visitedNodes.Add(currentVertex);
+
+                foreach (var edge in AdjacencyList[currentVertex])
+                {
+                    if (!visited.Contains(edge.Vertex))
+                    {
+                        visited.Add(edge.Vertex);
+                        queue.Enqueue(edge.Vertex);
+                    }
+                }
+            }
+                return visitedNodes;
+        }
+
     }
+
+
 }
