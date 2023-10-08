@@ -44,6 +44,18 @@ namespace Challenge35_Graph
             });
         }
 
+        public Vertex<T> GetVertexByValue(T value)
+        {
+            foreach (var vertex in AdjacencyList.Keys)
+            {
+                if (vertex.Value.Equals(value))
+                {
+                    return vertex;
+                }
+            }
+            return null; // Vertex with the specified value not found.
+        }
+
         public List<Vertex<T>> GetVertices()
         {
             return new List<Vertex<T>>(AdjacencyList.Keys);
@@ -109,6 +121,8 @@ namespace Challenge35_Graph
             }
                 return visitedNodes;
         }
+
+        
 
     }
 
