@@ -57,3 +57,26 @@
     ```
 
 - This code creates a simple graph with four vertices and three weighted edges, then prints out the vertices, neighbors of the "Amman" vertex, and the size of the graph.
+
+# Breadth First challenge 36 
+
+## white board 
+
+ - ![white board](./WBBreadthfirst.jpg)
+
+## Approach & Efficiency
+ Approach:
+
+The BFS (Breadth-First Search) algorithm starts from a given vertex and explores all its neighbors before moving on to their neighbors.
+It uses a queue to keep track of the vertices to visit in a "first in, first out" order.
+A HashSet is used to mark vertices as visited to avoid revisiting them.
+
+Efficiency:
+
+Time Complexity: O(V + E), where V is the number of vertices, and E is the number of edges in the graph.
+Space Complexity: O(V), where V is the number of vertices.
+       
+    
+## breadth first Code 
+
+  - ![](Breadthfirst.png)

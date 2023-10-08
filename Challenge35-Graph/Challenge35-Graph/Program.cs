@@ -13,23 +13,31 @@
 
             graph.AddEdge(a, b, 100);
             graph.AddEdge(b, c, 240);
-            graph.AddEdge(c, d, 240);
+            graph.AddEdge(c, d, 250);
             graph.AddEdge(c, a, 150);
 
-            Console.WriteLine("Vertices in the graph:");
-            foreach (var vertex in graph.GetVertices())
-            {
-                Console.WriteLine(vertex.Value);
-            }
+            //Console.WriteLine("Vertices in the graph:");
+            //foreach (var vertex in graph.GetVertices())
+            //{
+            //    Console.WriteLine(vertex.Value);
+            //}
 
-            Console.WriteLine("\nNeighbors of Amman:");
-            var newYorkNeighbors = graph.GetNeighbors(a);
-            foreach (var edge in newYorkNeighbors)
-            {
-                Console.WriteLine($"{edge.Vertex.Value} (Weight: {edge.Weight})");
-            }
+            //Console.WriteLine("\nNeighbors of Amman:");
+            //var newYorkNeighbors = graph.GetNeighbors(a);
+            //foreach (var edge in newYorkNeighbors)
+            //{
+            //    Console.WriteLine($"{edge.Vertex.Value} (Weight: {edge.Weight})");
+            //}
 
-            Console.WriteLine("\nSize of the graph: " + graph.Size());
+            //Console.WriteLine("\nSize of the graph: " + graph.Size());
+
+            Console.WriteLine("-------------------------------------");
+            var x = graph.BreadthFirst(a);
+
+            foreach (var item in x)
+            {
+               Console.WriteLine(item.Value);
+            }
         }
     }
 }
